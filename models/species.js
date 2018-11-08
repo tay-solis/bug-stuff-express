@@ -4,6 +4,7 @@ Schema = mongoose.Schema;
 const SpeciesSchema = new Schema({
 	commonName: String,
 	speciesName: String,
+	genusName: String,
     genus: {
         type: Schema.Types.ObjectId,
         ref: 'Genus'
