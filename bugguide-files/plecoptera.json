@@ -1,0 +1,1262 @@
+[
+  {
+    "genus": "Tallaperla",
+    "species": "maria",
+    "family": "Peltoperlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 52936,
+    "URL": "https://bugguide.net/node/view/52936",
+    "commonName": "Tallaperla maria"
+  },
+  {
+    "genus": "Isoperla",
+    "species": "marlynia",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 56175,
+    "URL": "https://bugguide.net/node/view/56175",
+    "commonName": "Isoperla marlynia"
+  },
+  {
+    "genus": "Pteronarcys",
+    "species": "biloba",
+    "family": "Pteronarcyidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 161590,
+    "URL": "https://bugguide.net/node/view/161590",
+    "commonName": "Knobbed Salmonfly"
+  },
+  {
+    "genus": "Leuctra",
+    "species": "sibleyi",
+    "family": "Leuctridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 170619,
+    "URL": "https://bugguide.net/node/view/170619",
+    "commonName": "Leuctra sibleyi"
+  },
+  {
+    "genus": "Oemopteryx",
+    "species": "glacialis",
+    "family": "Taeniopterygidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 178956,
+    "URL": "https://bugguide.net/node/view/178956",
+    "commonName": "Oemopteryx glacialis"
+  },
+  {
+    "genus": "Perlinella",
+    "species": "ephyre",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 179537,
+    "URL": "https://bugguide.net/node/view/179537",
+    "commonName": "Vernal Stone"
+  },
+  {
+    "genus": "Isoperla",
+    "species": "namata",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 179539,
+    "URL": "https://bugguide.net/node/view/179539",
+    "commonName": "Isoperla namata"
+  },
+  {
+    "genus": "Strophopteryx",
+    "species": "fasciata",
+    "family": "Taeniopterygidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 179541,
+    "URL": "https://bugguide.net/node/view/179541",
+    "commonName": "Strophopteryx fasciata"
+  },
+  {
+    "genus": "Paranemoura",
+    "species": "perfecta",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 179544,
+    "URL": "https://bugguide.net/node/view/179544",
+    "commonName": "Paranemoura perfecta"
+  },
+  {
+    "genus": "Acroneuria",
+    "species": "carolinensis",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 179644,
+    "URL": "https://bugguide.net/node/view/179644",
+    "commonName": "Acroneuria carolinensis"
+  },
+  {
+    "genus": "Isoperla",
+    "species": "similis",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 179683,
+    "URL": "https://bugguide.net/node/view/179683",
+    "commonName": "Isoperla similis"
+  },
+  {
+    "genus": "Bolotoperla",
+    "species": "rossi",
+    "family": "Taeniopterygidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 179685,
+    "URL": "https://bugguide.net/node/view/179685",
+    "commonName": "Bolotoperla rossi"
+  },
+  {
+    "genus": "Acroneuria",
+    "species": "abnormis",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 180272,
+    "URL": "https://bugguide.net/node/view/180272",
+    "commonName": "Common Stone"
+  },
+  {
+    "genus": "Taenionema",
+    "species": "atlanticum",
+    "family": "Taeniopterygidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 181955,
+    "URL": "https://bugguide.net/node/view/181955",
+    "commonName": "Taenionema atlanticum"
+  },
+  {
+    "genus": "Perlinella",
+    "species": "drymo",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 185947,
+    "URL": "https://bugguide.net/node/view/185947",
+    "commonName": "Striped Stone"
+  },
+  {
+    "genus": "Taeniopteryx",
+    "species": "nivalis",
+    "family": "Taeniopterygidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 189878,
+    "URL": "https://bugguide.net/node/view/189878",
+    "commonName": "Taeniopteryx nivalis"
+  },
+  {
+    "genus": "Allocapnia",
+    "species": "maria",
+    "family": "Capniidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 189881,
+    "URL": "https://bugguide.net/node/view/189881",
+    "commonName": "Allocapnia maria"
+  },
+  {
+    "genus": "Sweltsa",
+    "species": "onkos",
+    "family": "Chloroperlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 191432,
+    "URL": "https://bugguide.net/node/view/191432",
+    "commonName": "Sweltsa onkos"
+  },
+  {
+    "genus": "Hesperoperla",
+    "species": "pacifica",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 196000,
+    "URL": "https://bugguide.net/node/view/196000",
+    "commonName": "Golden Stonefly"
+  },
+  {
+    "genus": "Claassenia",
+    "species": "sabulosa",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 196102,
+    "URL": "https://bugguide.net/node/view/196102",
+    "commonName": "Claassenia sabulosa"
+  },
+  {
+    "genus": "Pteronarcys",
+    "species": "dorsata",
+    "family": "Pteronarcyidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 196105,
+    "URL": "https://bugguide.net/node/view/196105",
+    "commonName": "American Salmonfly"
+  },
+  {
+    "genus": "Calineuria",
+    "species": "californica",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 196107,
+    "URL": "https://bugguide.net/node/view/196107",
+    "commonName": "Calineuria californica"
+  },
+  {
+    "genus": "Isoperla",
+    "species": "bilineata",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 196313,
+    "URL": "https://bugguide.net/node/view/196313",
+    "commonName": "Isoperla bilineata"
+  },
+  {
+    "genus": "Ostrocerca",
+    "species": "albidipennis",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 196713,
+    "URL": "https://bugguide.net/node/view/196713",
+    "commonName": "Ostrocerca albidipennis"
+  },
+  {
+    "genus": "Pteronarcys",
+    "species": "proteus",
+    "family": "Pteronarcyidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 196714,
+    "URL": "https://bugguide.net/node/view/196714",
+    "commonName": "Appalachian Salmonfly"
+  },
+  {
+    "genus": "Alloperla",
+    "species": "concolor",
+    "family": "Chloroperlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 196715,
+    "URL": "https://bugguide.net/node/view/196715",
+    "commonName": "Alloperla concolor"
+  },
+  {
+    "genus": "Sweltsa",
+    "species": "naica",
+    "family": "Chloroperlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 196718,
+    "URL": "https://bugguide.net/node/view/196718",
+    "commonName": "Sweltsa naica"
+  },
+  {
+    "genus": "Sweltsa",
+    "species": "lateralis",
+    "family": "Chloroperlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 196719,
+    "URL": "https://bugguide.net/node/view/196719",
+    "commonName": "Sweltsa lateralis"
+  },
+  {
+    "genus": "Leuctra",
+    "species": "laura",
+    "family": "Leuctridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 197237,
+    "URL": "https://bugguide.net/node/view/197237",
+    "commonName": "Leuctra laura"
+  },
+  {
+    "genus": "Sierraperla",
+    "species": "cora",
+    "family": "Peltoperlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 202857,
+    "URL": "https://bugguide.net/node/view/202857",
+    "commonName": "Giant Roachfly"
+  },
+  {
+    "genus": "Acroneuria",
+    "species": "lycorias",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 208568,
+    "URL": "https://bugguide.net/node/view/208568",
+    "commonName": "Acroneuria lycorias"
+  },
+  {
+    "genus": "Alloperla",
+    "species": "petasata",
+    "family": "Chloroperlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 209760,
+    "URL": "https://bugguide.net/node/view/209760",
+    "commonName": "Alloperla petasata"
+  },
+  {
+    "genus": "Leuctra",
+    "species": "tenella",
+    "family": "Leuctridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 209764,
+    "URL": "https://bugguide.net/node/view/209764",
+    "commonName": "Leuctra tenella"
+  },
+  {
+    "genus": "Amphinemura",
+    "species": "wui",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 209775,
+    "URL": "https://bugguide.net/node/view/209775",
+    "commonName": "Amphinemura wui"
+  },
+  {
+    "genus": "Suwallia",
+    "species": "marginata",
+    "family": "Chloroperlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 215224,
+    "URL": "https://bugguide.net/node/view/215224",
+    "commonName": "Suwallia marginata"
+  },
+  {
+    "genus": "Paragnetina",
+    "species": "media",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 231889,
+    "URL": "https://bugguide.net/node/view/231889",
+    "commonName": "Paragnetina media"
+  },
+  {
+    "genus": "Paragnetina",
+    "species": "immarginata",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 243126,
+    "URL": "https://bugguide.net/node/view/243126",
+    "commonName": "Beautiful Stone"
+  },
+  {
+    "genus": "Pteronarcys",
+    "species": "californica",
+    "family": "Pteronarcyidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 243142,
+    "URL": "https://bugguide.net/node/view/243142",
+    "commonName": "Giant Salmonfly"
+  },
+  {
+    "genus": "Sweltsa",
+    "species": "coloradensis",
+    "family": "Chloroperlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 243442,
+    "URL": "https://bugguide.net/node/view/243442",
+    "commonName": "Sweltsa coloradensis"
+  },
+  {
+    "genus": "Isogenoides",
+    "species": "frontalis",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 249106,
+    "URL": "https://bugguide.net/node/view/249106",
+    "commonName": "Isogenoides frontalis"
+  },
+  {
+    "genus": "Nemoura",
+    "species": "trispinosa",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 253384,
+    "URL": "https://bugguide.net/node/view/253384",
+    "commonName": "Nemoura trispinosa"
+  },
+  {
+    "genus": "Paracapnia",
+    "species": "angulata",
+    "family": "Capniidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 253386,
+    "URL": "https://bugguide.net/node/view/253386",
+    "commonName": "Paracapnia angulata"
+  },
+  {
+    "genus": "Allocapnia",
+    "species": "pygmaea",
+    "family": "Capniidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 253387,
+    "URL": "https://bugguide.net/node/view/253387",
+    "commonName": "Allocapnia pygmaea"
+  },
+  {
+    "genus": "Taeniopteryx",
+    "species": "burksi",
+    "family": "Taeniopterygidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 254480,
+    "URL": "https://bugguide.net/node/view/254480",
+    "commonName": "Taeniopteryx burksi"
+  },
+  {
+    "genus": "Yoraperla",
+    "species": "nigrisoma",
+    "family": "Peltoperlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 254793,
+    "URL": "https://bugguide.net/node/view/254793",
+    "commonName": "Yoraperla nigrisoma"
+  },
+  {
+    "genus": "Allocapnia",
+    "species": "recta",
+    "family": "Capniidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 255489,
+    "URL": "https://bugguide.net/node/view/255489",
+    "commonName": "Allocapnia recta"
+  },
+  {
+    "genus": "Allocapnia",
+    "species": "nivicola",
+    "family": "Capniidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 255491,
+    "URL": "https://bugguide.net/node/view/255491",
+    "commonName": "Allocapnia nivicola"
+  },
+  {
+    "genus": "Allocapnia",
+    "species": "minima",
+    "family": "Capniidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 257877,
+    "URL": "https://bugguide.net/node/view/257877",
+    "commonName": "Allocapnia minima"
+  },
+  {
+    "genus": "Cultus",
+    "species": "verticalis",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 258445,
+    "URL": "https://bugguide.net/node/view/258445",
+    "commonName": "Cultus verticalis"
+  },
+  {
+    "genus": "Pteronarcella",
+    "species": "badia",
+    "family": "Pteronarcyidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 259139,
+    "URL": "https://bugguide.net/node/view/259139",
+    "commonName": "Pteronarcella badia"
+  },
+  {
+    "genus": "Shipsa",
+    "species": "rotunda",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 259473,
+    "URL": "https://bugguide.net/node/view/259473",
+    "commonName": "Shipsa rotunda"
+  },
+  {
+    "genus": "Allocapnia",
+    "species": "vivipara",
+    "family": "Capniidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 259727,
+    "URL": "https://bugguide.net/node/view/259727",
+    "commonName": "Allocapnia vivipara"
+  },
+  {
+    "genus": "Prostoia",
+    "species": "completa",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 259914,
+    "URL": "https://bugguide.net/node/view/259914",
+    "commonName": "Prostoia completa"
+  },
+  {
+    "genus": "Podmosta",
+    "species": "macdunnoughi",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 259916,
+    "URL": "https://bugguide.net/node/view/259916",
+    "commonName": "Podmosta macdunnoughi"
+  },
+  {
+    "genus": "Isoperla",
+    "species": "montana",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 260120,
+    "URL": "https://bugguide.net/node/view/260120",
+    "commonName": "Isoperla montana"
+  },
+  {
+    "genus": "Skwala",
+    "species": "americana",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 260607,
+    "URL": "https://bugguide.net/node/view/260607",
+    "commonName": "American Springfly 0"
+  },
+  {
+    "genus": "Paracapnia",
+    "species": "opis",
+    "family": "Capniidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 261036,
+    "URL": "https://bugguide.net/node/view/261036",
+    "commonName": "Paracapnia opis"
+  },
+  {
+    "genus": "Taeniopteryx",
+    "species": "parvula",
+    "family": "Taeniopterygidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 261489,
+    "URL": "https://bugguide.net/node/view/261489",
+    "commonName": "Taeniopteryx parvula"
+  },
+  {
+    "genus": "Capnura",
+    "species": "manitoba",
+    "family": "Capniidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 261718,
+    "URL": "https://bugguide.net/node/view/261718",
+    "commonName": "Capnura manitoba"
+  },
+  {
+    "genus": "Suwallia",
+    "species": "forcipata",
+    "family": "Chloroperlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 264184,
+    "URL": "https://bugguide.net/node/view/264184",
+    "commonName": "Suwallia forcipata"
+  },
+  {
+    "genus": "Soyedina",
+    "species": "vallicularia",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 265108,
+    "URL": "https://bugguide.net/node/view/265108",
+    "commonName": "Soyedina vallicularia"
+  },
+  {
+    "genus": "Oemopteryx",
+    "species": "contorta",
+    "family": "Taeniopterygidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 265279,
+    "URL": "https://bugguide.net/node/view/265279",
+    "commonName": "Oemopteryx contorta"
+  },
+  {
+    "genus": "Soyedina",
+    "species": "washingtoni",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 266373,
+    "URL": "https://bugguide.net/node/view/266373",
+    "commonName": "Soyedina washingtoni"
+  },
+  {
+    "genus": "Helopicus",
+    "species": "subvarians",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 267030,
+    "URL": "https://bugguide.net/node/view/267030",
+    "commonName": "Helopicus subvarians"
+  },
+  {
+    "genus": "Agnetina",
+    "species": "capitata",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 268607,
+    "URL": "https://bugguide.net/node/view/268607",
+    "commonName": "Agnetina capitata"
+  },
+  {
+    "genus": "Isoperla",
+    "species": "signata",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 270116,
+    "URL": "https://bugguide.net/node/view/270116",
+    "commonName": "Isoperla signata"
+  },
+  {
+    "genus": "Neoperla",
+    "species": "clymene",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 275087,
+    "URL": "https://bugguide.net/node/view/275087",
+    "commonName": "Neoperla clymene"
+  },
+  {
+    "genus": "Ostrocerca",
+    "species": "complexa",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 282891,
+    "URL": "https://bugguide.net/node/view/282891",
+    "commonName": "Ostrocerca complexa"
+  },
+  {
+    "genus": "Prostoia",
+    "species": "similis",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 282896,
+    "URL": "https://bugguide.net/node/view/282896",
+    "commonName": "Prostoia similis"
+  },
+  {
+    "genus": "Leuctra",
+    "species": "duplicata",
+    "family": "Leuctridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 282897,
+    "URL": "https://bugguide.net/node/view/282897",
+    "commonName": "Leuctra duplicata"
+  },
+  {
+    "genus": "Haploperla",
+    "species": "brevis",
+    "family": "Chloroperlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 285879,
+    "URL": "https://bugguide.net/node/view/285879",
+    "commonName": "Haploperla brevis"
+  },
+  {
+    "genus": "Leuctra",
+    "species": "variabilis",
+    "family": "Leuctridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 286284,
+    "URL": "https://bugguide.net/node/view/286284",
+    "commonName": "Leuctra variabilis"
+  },
+  {
+    "genus": "Leuctra",
+    "species": "ferruginea",
+    "family": "Leuctridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 286298,
+    "URL": "https://bugguide.net/node/view/286298",
+    "commonName": "Leuctra ferruginea"
+  },
+  {
+    "genus": "Amphinemura",
+    "species": "nigritta",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 296100,
+    "URL": "https://bugguide.net/node/view/296100",
+    "commonName": "Amphinemura nigritta"
+  },
+  {
+    "genus": "Ostrocerca",
+    "species": "prolongata",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 296270,
+    "URL": "https://bugguide.net/node/view/296270",
+    "commonName": "Ostrocerca prolongata"
+  },
+  {
+    "genus": "Isoperla",
+    "species": "holochlora",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 297890,
+    "URL": "https://bugguide.net/node/view/297890",
+    "commonName": "Isoperla holochlora"
+  },
+  {
+    "genus": "Isoperla",
+    "species": "orata",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 298067,
+    "URL": "https://bugguide.net/node/view/298067",
+    "commonName": "Isoperla orata"
+  },
+  {
+    "genus": "Perlesta",
+    "species": "nitida",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 300022,
+    "URL": "https://bugguide.net/node/view/300022",
+    "commonName": "Perlesta nitida"
+  },
+  {
+    "genus": "Leuctra",
+    "species": "tenuis",
+    "family": "Leuctridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 320541,
+    "URL": "https://bugguide.net/node/view/320541",
+    "commonName": "Leuctra tenuis"
+  },
+  {
+    "genus": "Neoperla",
+    "species": "mainensis",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 321524,
+    "URL": "https://bugguide.net/node/view/321524",
+    "commonName": "Neoperla mainensis"
+  },
+  {
+    "genus": "Isoperla",
+    "species": "transmarina",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 336501,
+    "URL": "https://bugguide.net/node/view/336501",
+    "commonName": "Isoperla transmarina"
+  },
+  {
+    "genus": "Malirekus",
+    "species": "iroquois",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 342822,
+    "URL": "https://bugguide.net/node/view/342822",
+    "commonName": "Malirekus iroquois"
+  },
+  {
+    "genus": "Isogenoides",
+    "species": "hansoni",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 346748,
+    "URL": "https://bugguide.net/node/view/346748",
+    "commonName": "Isogenoides hansoni"
+  },
+  {
+    "genus": "Pteronarcys",
+    "species": "princeps",
+    "family": "Pteronarcyidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 363646,
+    "URL": "https://bugguide.net/node/view/363646",
+    "commonName": "Ebony Salmonfly"
+  },
+  {
+    "genus": "Kathroperla",
+    "species": "perdita",
+    "family": "Chloroperlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 381125,
+    "URL": "https://bugguide.net/node/view/381125",
+    "commonName": "Longhead Sallfly"
+  },
+  {
+    "genus": "Paraleuctra",
+    "species": "sara",
+    "family": "Leuctridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 388253,
+    "URL": "https://bugguide.net/node/view/388253",
+    "commonName": "Paraleuctra sara"
+  },
+  {
+    "genus": "Isoperla",
+    "species": "lata",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 394082,
+    "URL": "https://bugguide.net/node/view/394082",
+    "commonName": "Isoperla lata"
+  },
+  {
+    "genus": "Eccoptura",
+    "species": "xanthenes",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 395986,
+    "URL": "https://bugguide.net/node/view/395986",
+    "commonName": "Eccoptura xanthenes"
+  },
+  {
+    "genus": "Isoperla",
+    "species": "dicala",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 404492,
+    "URL": "https://bugguide.net/node/view/404492",
+    "commonName": "Isoperla dicala"
+  },
+  {
+    "genus": "Clioperla",
+    "species": "clio",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 404494,
+    "URL": "https://bugguide.net/node/view/404494",
+    "commonName": "Clioperla clio"
+  },
+  {
+    "genus": "Utaperla",
+    "species": "gaspesiana",
+    "family": "Chloroperlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 412801,
+    "URL": "https://bugguide.net/node/view/412801",
+    "commonName": "Utaperla gaspesiana"
+  },
+  {
+    "genus": "Amphinemura",
+    "species": "linda",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 412804,
+    "URL": "https://bugguide.net/node/view/412804",
+    "commonName": "Amphinemura linda"
+  },
+  {
+    "genus": "Attaneuria",
+    "species": "ruralis",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 417608,
+    "URL": "https://bugguide.net/node/view/417608",
+    "commonName": "Attaneuria ruralis"
+  },
+  {
+    "genus": "Kathroperla",
+    "species": "takhoma",
+    "family": "Chloroperlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 444566,
+    "URL": "https://bugguide.net/node/view/444566",
+    "commonName": "Kathroperla takhoma"
+  },
+  {
+    "genus": "Sweltsa",
+    "species": "borealis",
+    "family": "Chloroperlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 448201,
+    "URL": "https://bugguide.net/node/view/448201",
+    "commonName": "Sweltsa borealis"
+  },
+  {
+    "genus": "Isoperla",
+    "species": "richardsoni",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 448213,
+    "URL": "https://bugguide.net/node/view/448213",
+    "commonName": "Isoperla richardsoni"
+  },
+  {
+    "genus": "Moselia",
+    "species": "infuscata",
+    "family": "Leuctridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 484490,
+    "URL": "https://bugguide.net/node/view/484490",
+    "commonName": "Hairy Needlefly"
+  },
+  {
+    "genus": "Susulus",
+    "species": "venustus",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 484500,
+    "URL": "https://bugguide.net/node/view/484500",
+    "commonName": "Beautiful Springfly"
+  },
+  {
+    "genus": "Skwala",
+    "species": "curvata",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 484506,
+    "URL": "https://bugguide.net/node/view/484506",
+    "commonName": "Skwala curvata"
+  },
+  {
+    "genus": "Zapada",
+    "species": "cinctipes",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 487917,
+    "URL": "https://bugguide.net/node/view/487917",
+    "commonName": "Zapada cinctipes"
+  },
+  {
+    "genus": "Despaxia",
+    "species": "augusta",
+    "family": "Leuctridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 488585,
+    "URL": "https://bugguide.net/node/view/488585",
+    "commonName": "Despaxia augusta"
+  },
+  {
+    "genus": "Hesperoperla",
+    "species": "hoguei",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 495770,
+    "URL": "https://bugguide.net/node/view/495770",
+    "commonName": "Hesperoperla hoguei"
+  },
+  {
+    "genus": "Isoperla",
+    "species": "pinta",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 509322,
+    "URL": "https://bugguide.net/node/view/509322",
+    "commonName": "Isoperla pinta"
+  },
+  {
+    "genus": "Neoperla",
+    "species": "coosa",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 571852,
+    "URL": "https://bugguide.net/node/view/571852",
+    "commonName": "Neoperla coosa"
+  },
+  {
+    "genus": "Perlesta",
+    "species": "nelsoni",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 591073,
+    "URL": "https://bugguide.net/node/view/591073",
+    "commonName": "Perlesta nelsoni"
+  },
+  {
+    "genus": "Malirekus",
+    "species": "hastatus",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 608888,
+    "URL": "https://bugguide.net/node/view/608888",
+    "commonName": "Malirekus hastatus"
+  },
+  {
+    "genus": "Diploperla",
+    "species": "duplicata",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 619305,
+    "URL": "https://bugguide.net/node/view/619305",
+    "commonName": "Diploperla duplicata"
+  },
+  {
+    "genus": "Paraperla",
+    "species": "frontalis",
+    "family": "Chloroperlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 636128,
+    "URL": "https://bugguide.net/node/view/636128",
+    "commonName": "Hyporheic Sallfly"
+  },
+  {
+    "genus": "Eucapnopsis",
+    "species": "brevicauda",
+    "family": "Capniidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 636326,
+    "URL": "https://bugguide.net/node/view/636326",
+    "commonName": "Eucapnopsis brevicauda"
+  },
+  {
+    "genus": "Megarcys",
+    "species": "subtruncata",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 647368,
+    "URL": "https://bugguide.net/node/view/647368",
+    "commonName": "Megarcys subtruncata"
+  },
+  {
+    "genus": "Yoraperla",
+    "species": "mariana",
+    "family": "Peltoperlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 647396,
+    "URL": "https://bugguide.net/node/view/647396",
+    "commonName": "Yoraperla mariana"
+  },
+  {
+    "genus": "Agnetina",
+    "species": "annulipes",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 703334,
+    "URL": "https://bugguide.net/node/view/703334",
+    "commonName": "Southern Stone"
+  },
+  {
+    "genus": "Utacapnia",
+    "species": "trava",
+    "family": "Capniidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 738907,
+    "URL": "https://bugguide.net/node/view/738907",
+    "commonName": "Utacapnia trava"
+  },
+  {
+    "genus": "Taenionema",
+    "species": "californicum",
+    "family": "Taeniopterygidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 750556,
+    "URL": "https://bugguide.net/node/view/750556",
+    "commonName": "Taenionema californicum"
+  },
+  {
+    "genus": "Capnia",
+    "species": "zukeli",
+    "family": "Capniidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 756818,
+    "URL": "https://bugguide.net/node/view/756818",
+    "commonName": "Capnia zukeli"
+  },
+  {
+    "genus": "Ostrocerca",
+    "species": "dimicki",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 759559,
+    "URL": "https://bugguide.net/node/view/759559",
+    "commonName": "Ostrocerca dimicki"
+  },
+  {
+    "genus": "Isoperla",
+    "species": "davisi",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 760125,
+    "URL": "https://bugguide.net/node/view/760125",
+    "commonName": "Isoperla davisi"
+  },
+  {
+    "genus": "Pteronarcella",
+    "species": "regularis",
+    "family": "Pteronarcyidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 760266,
+    "URL": "https://bugguide.net/node/view/760266",
+    "commonName": "Pteronarcella regularis"
+  },
+  {
+    "genus": "Paragnetina",
+    "species": "fumosa",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 760933,
+    "URL": "https://bugguide.net/node/view/760933",
+    "commonName": "Paragnetina fumosa"
+  },
+  {
+    "genus": "Zapada",
+    "species": "oregonensis",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 765297,
+    "URL": "https://bugguide.net/node/view/765297",
+    "commonName": "Zapada oregonensis"
+  },
+  {
+    "genus": "Paraleuctra",
+    "species": "vershina",
+    "family": "Leuctridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 765967,
+    "URL": "https://bugguide.net/node/view/765967",
+    "commonName": "Paraleuctra vershina"
+  },
+  {
+    "genus": "Leuctra",
+    "species": "truncata",
+    "family": "Leuctridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 785204,
+    "URL": "https://bugguide.net/node/view/785204",
+    "commonName": "Leuctra truncata"
+  },
+  {
+    "genus": "Megaleuctra",
+    "species": "complicata",
+    "family": "Leuctridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 851481,
+    "URL": "https://bugguide.net/node/view/851481",
+    "commonName": "Megaleuctra complicata"
+  },
+  {
+    "genus": "Agnetina",
+    "species": "flavescens",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 864531,
+    "URL": "https://bugguide.net/node/view/864531",
+    "commonName": "Agnetina flavescens"
+  },
+  {
+    "genus": "Isoperla",
+    "species": "marmorata",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 876473,
+    "URL": "https://bugguide.net/node/view/876473",
+    "commonName": "Isoperla marmorata"
+  },
+  {
+    "genus": "Capnia",
+    "species": "umpqua",
+    "family": "Capniidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 876775,
+    "URL": "https://bugguide.net/node/view/876775",
+    "commonName": "Capnia umpqua"
+  },
+  {
+    "genus": "Pteronarcys",
+    "species": "pictetii",
+    "family": "Pteronarcyidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 883960,
+    "URL": "https://bugguide.net/node/view/883960",
+    "commonName": "Midwestern Salmonfly"
+  },
+  {
+    "genus": "Acroneuria",
+    "species": "arenosa",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 989282,
+    "URL": "https://bugguide.net/node/view/989282",
+    "commonName": "Acroneuria arenosa"
+  },
+  {
+    "genus": "Perlesta",
+    "species": "xube",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 1023358,
+    "URL": "https://bugguide.net/node/view/1023358",
+    "commonName": "Perlesta xube"
+  },
+  {
+    "genus": "Acroneuria",
+    "species": "evoluta",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 1086890,
+    "URL": "https://bugguide.net/node/view/1086890",
+    "commonName": "Acroneuria evoluta"
+  },
+  {
+    "genus": "Ostrocerca",
+    "species": "truncata",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 1210750,
+    "URL": "https://bugguide.net/node/view/1210750",
+    "commonName": "Ostrocerca truncata"
+  },
+  {
+    "genus": "Zapada",
+    "species": "columbiana",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 1298341,
+    "URL": "https://bugguide.net/node/view/1298341",
+    "commonName": "Zapada columbiana"
+  },
+  {
+    "genus": "Taenionema",
+    "species": "oregonense",
+    "family": "Taeniopterygidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 1347087,
+    "URL": "https://bugguide.net/node/view/1347087",
+    "commonName": "Oregon Willowfly"
+  },
+  {
+    "genus": "Doroneuria",
+    "species": "baumanni",
+    "family": "Perlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 1425658,
+    "URL": "https://bugguide.net/node/view/1425658",
+    "commonName": "Doroneuria baumanni"
+  },
+  {
+    "genus": "Capnia",
+    "species": "promota",
+    "family": "Capniidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 1494467,
+    "URL": "https://bugguide.net/node/view/1494467",
+    "commonName": "Capnia promota"
+  },
+  {
+    "genus": "Podmosta",
+    "species": "obscura",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 1508434,
+    "URL": "https://bugguide.net/node/view/1508434",
+    "commonName": "Podmosta obscura"
+  },
+  {
+    "genus": "Soyedina",
+    "species": "interrupta",
+    "family": "Nemouridae",
+    "Order": "Plecoptera",
+    "BugGuideID": 1513171,
+    "URL": "https://bugguide.net/node/view/1513171",
+    "commonName": "Soyedina interrupta"
+  },
+  {
+    "genus": "Taenionema",
+    "species": "kincaidi",
+    "family": "Taeniopterygidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 1529339,
+    "URL": "https://bugguide.net/node/view/1529339",
+    "commonName": "Taenionema kincaidi"
+  },
+  {
+    "genus": "Frisonia",
+    "species": "picticeps",
+    "family": "Perlodidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 1529345,
+    "URL": "https://bugguide.net/node/view/1529345",
+    "commonName": "Frisonia picticeps"
+  },
+  {
+    "genus": "Soliperla",
+    "species": "sierra",
+    "family": "Peltoperlidae",
+    "Order": "Plecoptera",
+    "BugGuideID": 1545516,
+    "URL": "https://bugguide.net/node/view/1545516",
+    "commonName": "Soliperla sierra"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "genus": "Thermobia",
+    "species": "domestica",
+    "family": "Lepismatidae",
+    "Order": "Zygentoma",
+    "BugGuideID": 37116,
+    "URL": "https://bugguide.net/node/view/37116",
+    "commonName": "Firebrat"
+  },
+  {
+    "genus": "Lepisma",
+    "species": "saccharina",
+    "family": "Lepismatidae",
+    "Order": "Zygentoma",
+    "BugGuideID": 40366,
+    "URL": "https://bugguide.net/node/view/40366",
+    "commonName": "Common Silverfish"
+  },
+  {
+    "genus": "Ctenolepisma",
+    "species": "longicaudata",
+    "family": "Lepismatidae",
+    "Order": "Zygentoma",
+    "BugGuideID": 151414,
+    "URL": "https://bugguide.net/node/view/151414",
+    "commonName": "Gray Silverfish"
+  },
+  {
+    "genus": "Ctenolepisma",
+    "species": "lineata",
+    "family": "Lepismatidae",
+    "Order": "Zygentoma",
+    "BugGuideID": 156092,
+    "URL": "https://bugguide.net/node/view/156092",
+    "commonName": "Four-lined Silverfish"
+  },
+  {
+    "genus": "Battigrassiella",
+    "species": "wheeleri",
+    "family": "Nicoletiidae",
+    "Order": "Zygentoma",
+    "BugGuideID": 257803,
+    "URL": "https://bugguide.net/node/view/257803",
+    "commonName": "Battigrassiella wheeleri"
+  },
+  {
+    "genus": "Mirolepisma",
+    "species": "deserticola",
+    "family": "Lepismatidae",
+    "Order": "Zygentoma",
+    "BugGuideID": 389939,
+    "URL": "https://bugguide.net/node/view/389939",
+    "commonName": "Mirolepisma deserticola"
+  },
+  {
+    "genus": "Nicoletia",
+    "species": "wheeleri",
+    "family": "Nicoletiidae",
+    "Order": "Zygentoma",
+    "BugGuideID": 1088532,
+    "URL": "https://bugguide.net/node/view/1088532",
+    "commonName": "Nicoletia wheeleri"
+  },
+  {
+    "genus": "Tricholepidion",
+    "species": "gertschi",
+    "family": "Lepidotrichidae",
+    "Order": "Zygentoma",
+    "BugGuideID": 1264432,
+    "URL": "https://bugguide.net/node/view/1264432",
+    "commonName": "Relict Silverfish"
+  },
+  {
+    "genus": "Leucolepisma",
+    "species": "arenaria",
+    "family": "Lepismatidae",
+    "Order": "Zygentoma",
+    "BugGuideID": 1362001,
+    "URL": "https://bugguide.net/node/view/1362001",
+    "commonName": "Leucolepisma arenaria"
+  }
+]

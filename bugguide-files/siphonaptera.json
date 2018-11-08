@@ -1,0 +1,83 @@
+[
+  {
+    "genus": "Ctenocephalides",
+    "species": "felis",
+    "family": "Pulicidae",
+    "order": "Siphonaptera",
+    "BugGuideID": 30402,
+    "URL": "https://bugguide.net/node/view/30402",
+    "commonName": "Cat Flea"
+  },
+  {
+    "genus": "Ctenocephalides",
+    "species": "canis",
+    "family": "Pulicidae",
+    "order": "Siphonaptera",
+    "BugGuideID": 179454,
+    "URL": "https://bugguide.net/node/view/179454",
+    "commonName": "Dog Flea"
+  },
+  {
+    "genus": "Echidnophaga",
+    "species": "gallinacea",
+    "family": "Pulicidae",
+    "order": "Siphonaptera",
+    "BugGuideID": 219449,
+    "URL": "https://bugguide.net/node/view/219449",
+    "commonName": "Sticktight Flea"
+  },
+  {
+    "genus": "Orchopeas",
+    "species": "howardi",
+    "family": "Ceratophyllidae",
+    "order": "Siphonaptera",
+    "BugGuideID": 489423,
+    "URL": "https://bugguide.net/node/view/489423",
+    "commonName": "Squirrel Flea"
+  },
+  {
+    "genus": "Cediopsylla",
+    "species": "simplex",
+    "family": "Pulicidae",
+    "order": "Siphonaptera",
+    "BugGuideID": 549180,
+    "URL": "https://bugguide.net/node/view/549180",
+    "commonName": "Cediopsylla simplex"
+  },
+  {
+    "genus": "Pulex",
+    "species": "irritans",
+    "family": "Pulicidae",
+    "order": "Siphonaptera",
+    "BugGuideID": 599589,
+    "URL": "https://bugguide.net/node/view/599589",
+    "commonName": "Human Flea"
+  },
+  {
+    "genus": "Hystrichopsylla",
+    "species": "schefferi",
+    "family": "Hystrichopsyllidae",
+    "order": "Siphonaptera",
+    "BugGuideID": 703271,
+    "URL": "https://bugguide.net/node/view/703271",
+    "commonName": "Hystrichopsylla schefferi"
+  },
+  {
+    "genus": "Dolichopsyllus",
+    "species": "stylosus",
+    "family": "Leptopsyllidae",
+    "order": "Siphonaptera",
+    "BugGuideID": 1077204,
+    "URL": "https://bugguide.net/node/view/1077204",
+    "commonName": "Dolichopsyllus stylosus"
+  },
+  {
+    "genus": "Oropsylla",
+    "species": "hirsuta",
+    "family": "Ceratophyllidae",
+    "order": "Siphonaptera",
+    "BugGuideID": 1440571,
+    "URL": "https://bugguide.net/node/view/1440571",
+    "commonName": "Prairie Dog Flea"
+  }
+]

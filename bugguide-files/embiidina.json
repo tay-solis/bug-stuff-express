@@ -1,0 +1,47 @@
+[
+  {
+    "genus": "Oligotoma",
+    "species": "nigra",
+    "family": "Oligotomidae",
+    "order": "Embiidina",
+    "BugGuideID": 35629,
+    "URL": "https://bugguide.net/node/view/35629",
+    "commonName": "Black Webspinner"
+  },
+  {
+    "genus": "Anisembia",
+    "species": "texana",
+    "family": "Anisembiidae",
+    "order": "Embiidina",
+    "BugGuideID": 163994,
+    "URL": "https://bugguide.net/node/view/163994",
+    "commonName": "Anisembia texana"
+  },
+  {
+    "genus": "Haploembia",
+    "species": "solieri",
+    "family": "Oligotomidae",
+    "order": "Embiidina",
+    "BugGuideID": 285384,
+    "URL": "https://bugguide.net/node/view/285384",
+    "commonName": "Haploembia solieri"
+  },
+  {
+    "genus": "Oligotoma",
+    "species": "saundersii",
+    "family": "Oligotomidae",
+    "order": "Embiidina",
+    "BugGuideID": 285441,
+    "URL": "https://bugguide.net/node/view/285441",
+    "commonName": "Saunders' Embiid"
+  },
+  {
+    "genus": "Diradius",
+    "species": "vandykei",
+    "family": "Teratembiidae",
+    "order": "Embiidina",
+    "BugGuideID": 852999,
+    "URL": "https://bugguide.net/node/view/852999",
+    "commonName": "Diradius vandykei"
+  }
+]

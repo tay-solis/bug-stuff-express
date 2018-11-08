@@ -1,0 +1,173 @@
+[
+  {
+    "genus": "Corydalus",
+    "species": "cornutus",
+    "family": "Corydalidae",
+    "Order": "Megaloptera",
+    "BugGuideID": 4873,
+    "URL": "https://bugguide.net/node/view/4873",
+    "commonName": "Eastern Dobsonfly"
+  },
+  {
+    "genus": "Chauliodes",
+    "species": "pectinicornis",
+    "family": "Corydalidae",
+    "Order": "Megaloptera",
+    "BugGuideID": 8568,
+    "URL": "https://bugguide.net/node/view/8568",
+    "commonName": "Summer Fishfly"
+  },
+  {
+    "genus": "Chauliodes",
+    "species": "rastricornis",
+    "family": "Corydalidae",
+    "Order": "Megaloptera",
+    "BugGuideID": 8569,
+    "URL": "https://bugguide.net/node/view/8569",
+    "commonName": "Spring Fishfly"
+  },
+  {
+    "genus": "Nigronia",
+    "species": "fasciata",
+    "family": "Corydalidae",
+    "Order": "Megaloptera",
+    "BugGuideID": 40328,
+    "URL": "https://bugguide.net/node/view/40328",
+    "commonName": "Nigronia fasciata"
+  },
+  {
+    "genus": "Nigronia",
+    "species": "serricornis",
+    "family": "Corydalidae",
+    "Order": "Megaloptera",
+    "BugGuideID": 40329,
+    "URL": "https://bugguide.net/node/view/40329",
+    "commonName": "Nigronia serricornis"
+  },
+  {
+    "genus": "Sialis",
+    "species": "mohri",
+    "family": "Sialidae",
+    "Order": "Megaloptera",
+    "BugGuideID": 228485,
+    "URL": "https://bugguide.net/node/view/228485",
+    "commonName": "Sialis mohri"
+  },
+  {
+    "genus": "Sialis",
+    "species": "iola",
+    "family": "Sialidae",
+    "Order": "Megaloptera",
+    "BugGuideID": 265084,
+    "URL": "https://bugguide.net/node/view/265084",
+    "commonName": "Sialis iola"
+  },
+  {
+    "genus": "Neohermes",
+    "species": "angusticollis",
+    "family": "Corydalidae",
+    "Order": "Megaloptera",
+    "BugGuideID": 293342,
+    "URL": "https://bugguide.net/node/view/293342",
+    "commonName": "Neohermes angusticollis"
+  },
+  {
+    "genus": "Dysmicohermes",
+    "species": "disjunctus",
+    "family": "Corydalidae",
+    "Order": "Megaloptera",
+    "BugGuideID": 326324,
+    "URL": "https://bugguide.net/node/view/326324",
+    "commonName": "Dysmicohermes disjunctus"
+  },
+  {
+    "genus": "Neohermes",
+    "species": "californicus",
+    "family": "Corydalidae",
+    "Order": "Megaloptera",
+    "BugGuideID": 474852,
+    "URL": "https://bugguide.net/node/view/474852",
+    "commonName": "Neohermes californicus"
+  },
+  {
+    "genus": "Dysmicohermes",
+    "species": "ingens",
+    "family": "Corydalidae",
+    "Order": "Megaloptera",
+    "BugGuideID": 492362,
+    "URL": "https://bugguide.net/node/view/492362",
+    "commonName": "Dysmicohermes ingens"
+  },
+  {
+    "genus": "Corydalus",
+    "species": "texanus",
+    "family": "Corydalidae",
+    "Order": "Megaloptera",
+    "BugGuideID": 492607,
+    "URL": "https://bugguide.net/node/view/492607",
+    "commonName": "Corydalus texanus"
+  },
+  {
+    "genus": "Protochauliodes",
+    "species": "montivagus",
+    "family": "Corydalidae",
+    "Order": "Megaloptera",
+    "BugGuideID": 558183,
+    "URL": "https://bugguide.net/node/view/558183",
+    "commonName": "Protochauliodes montivagus"
+  },
+  {
+    "genus": "Protochauliodes",
+    "species": "aridus",
+    "family": "Corydalidae",
+    "Order": "Megaloptera",
+    "BugGuideID": 558191,
+    "URL": "https://bugguide.net/node/view/558191",
+    "commonName": "Protochauliodes aridus"
+  },
+  {
+    "genus": "Neohermes",
+    "species": "concolor",
+    "family": "Corydalidae",
+    "Order": "Megaloptera",
+    "BugGuideID": 564807,
+    "URL": "https://bugguide.net/node/view/564807",
+    "commonName": "Neohermes concolor"
+  },
+  {
+    "genus": "Neohermes",
+    "species": "filicornis",
+    "family": "Corydalidae",
+    "Order": "Megaloptera",
+    "BugGuideID": 572859,
+    "URL": "https://bugguide.net/node/view/572859",
+    "commonName": "Neohermes filicornis"
+  },
+  {
+    "genus": "Orohermes",
+    "species": "crepusculus",
+    "family": "Corydalidae",
+    "Order": "Megaloptera",
+    "BugGuideID": 676571,
+    "URL": "https://bugguide.net/node/view/676571",
+    "commonName": "Orohermes crepusculus"
+  },
+  {
+    "genus": "Protochauliodes",
+    "species": "spenceri",
+    "family": "Corydalidae",
+    "Order": "Megaloptera",
+    "BugGuideID": 1037157,
+    "URL": "https://bugguide.net/node/view/1037157",
+    "commonName": "Protochauliodes spenceri"
+  },
+  {
+    "genus": "Protochauliodes",
+    "species": "minimus",
+    "family": "Corydalidae",
+    "Order": "Megaloptera",
+    "BugGuideID": 1074326,
+    "URL": "https://bugguide.net/node/view/1074326",
+    "commonName": "Protochauliodes minimus"
+  }
+]

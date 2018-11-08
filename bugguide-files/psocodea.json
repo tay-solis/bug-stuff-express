@@ -1,0 +1,1811 @@
+[
+  {
+    "genus": "Polypsocus",
+    "species": "corruptus",
+    "family": "Amphipsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 83264,
+    "URL": "https://bugguide.net/node/view/83264",
+    "commonName": "Polypsocus corruptus"
+  },
+  {
+    "genus": "Cerastipsocus",
+    "species": "venosus",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 83280,
+    "URL": "https://bugguide.net/node/view/83280",
+    "commonName": "Cerastipsocus venosus"
+  },
+  {
+    "genus": "Ectopsocus",
+    "species": "briggsi",
+    "family": "Ectopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 141064,
+    "URL": "https://bugguide.net/node/view/141064",
+    "commonName": "Ectopsocus briggsi"
+  },
+  {
+    "genus": "Graphopsocus",
+    "species": "cruciatus",
+    "family": "Stenopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 141298,
+    "URL": "https://bugguide.net/node/view/141298",
+    "commonName": "Graphopsocus cruciatus"
+  },
+  {
+    "genus": "Valenzuela",
+    "species": "flavidus",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 141582,
+    "URL": "https://bugguide.net/node/view/141582",
+    "commonName": "Valenzuela flavidus"
+  },
+  {
+    "genus": "Haematopinus",
+    "species": "suis",
+    "family": "Haematopinidae",
+    "Order": "Psocodea",
+    "BugGuideID": 143724,
+    "URL": "https://bugguide.net/node/view/143724",
+    "commonName": "Hog Louse"
+  },
+  {
+    "genus": "Pediculus",
+    "species": "humanus",
+    "family": "Pediculidae",
+    "Order": "Psocodea",
+    "BugGuideID": 143727,
+    "URL": "https://bugguide.net/node/view/143727",
+    "commonName": "Human Louse"
+  },
+  {
+    "genus": "Metylophorus",
+    "species": "novaescotiae",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 145393,
+    "URL": "https://bugguide.net/node/view/145393",
+    "commonName": "Metylophorus novaescotiae"
+  },
+  {
+    "genus": "Psocus",
+    "species": "leidyi",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 145395,
+    "URL": "https://bugguide.net/node/view/145395",
+    "commonName": "Psocus leidyi"
+  },
+  {
+    "genus": "Trichadenotecnum",
+    "species": "majus",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 145647,
+    "URL": "https://bugguide.net/node/view/145647",
+    "commonName": "Trichadenotecnum majus"
+  },
+  {
+    "genus": "Trichadenotecnum",
+    "species": "alexanderae",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 145690,
+    "URL": "https://bugguide.net/node/view/145690",
+    "commonName": "Trichadenotecnum alexanderae"
+  },
+  {
+    "genus": "Teliapsocus",
+    "species": "conterminus",
+    "family": "Dasydemellidae",
+    "Order": "Psocodea",
+    "BugGuideID": 145696,
+    "URL": "https://bugguide.net/node/view/145696",
+    "commonName": "Teliapsocus conterminus"
+  },
+  {
+    "genus": "Cerastipsocus",
+    "species": "trifasciatus",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 145705,
+    "URL": "https://bugguide.net/node/view/145705",
+    "commonName": "Cerastipsocus trifasciatus"
+  },
+  {
+    "genus": "Echmepteryx",
+    "species": "hageni",
+    "family": "Lepidopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 147228,
+    "URL": "https://bugguide.net/node/view/147228",
+    "commonName": "Echmepteryx hageni"
+  },
+  {
+    "genus": "Loensia",
+    "species": "moesta",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 147231,
+    "URL": "https://bugguide.net/node/view/147231",
+    "commonName": "Loensia moesta"
+  },
+  {
+    "genus": "Trichadenotecnum",
+    "species": "castum",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 147285,
+    "URL": "https://bugguide.net/node/view/147285",
+    "commonName": "Trichadenotecnum castum"
+  },
+  {
+    "genus": "Metylophorus",
+    "species": "purus",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 147329,
+    "URL": "https://bugguide.net/node/view/147329",
+    "commonName": "Metylophorus purus"
+  },
+  {
+    "genus": "Xanthocaecilius",
+    "species": "quillayute",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 147331,
+    "URL": "https://bugguide.net/node/view/147331",
+    "commonName": "Xanthocaecilius quillayute"
+  },
+  {
+    "genus": "Ptycta",
+    "species": "polluta",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 153076,
+    "URL": "https://bugguide.net/node/view/153076",
+    "commonName": "Ptycta polluta"
+  },
+  {
+    "genus": "Peripsocus",
+    "species": "subfasciatus",
+    "family": "Peripsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 153079,
+    "URL": "https://bugguide.net/node/view/153079",
+    "commonName": "Peripsocus subfasciatus"
+  },
+  {
+    "genus": "Peripsocus",
+    "species": "madescens",
+    "family": "Peripsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 153082,
+    "URL": "https://bugguide.net/node/view/153082",
+    "commonName": "Peripsocus madescens"
+  },
+  {
+    "genus": "Blaste",
+    "species": "opposita",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 153086,
+    "URL": "https://bugguide.net/node/view/153086",
+    "commonName": "Blaste opposita"
+  },
+  {
+    "genus": "Echmepteryx",
+    "species": "madagascariensis",
+    "family": "Lepidopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 163577,
+    "URL": "https://bugguide.net/node/view/163577",
+    "commonName": "Echmepteryx (Thylacopsis) madagascariensis"
+  },
+  {
+    "genus": "Stimulopalpus",
+    "species": "japonicus",
+    "family": "Amphientomidae",
+    "Order": "Psocodea",
+    "BugGuideID": 164156,
+    "URL": "https://bugguide.net/node/view/164156",
+    "commonName": "Stimulopalpus japonicus"
+  },
+  {
+    "genus": "Damalinia",
+    "species": "caprae",
+    "family": "Trichodectidae",
+    "Order": "Psocodea",
+    "BugGuideID": 180693,
+    "URL": "https://bugguide.net/node/view/180693",
+    "commonName": "Common Goat Louse"
+  },
+  {
+    "genus": "Solenopotes",
+    "species": "capillatus",
+    "family": "Linognathidae",
+    "Order": "Psocodea",
+    "BugGuideID": 180708,
+    "URL": "https://bugguide.net/node/view/180708",
+    "commonName": "Solenopotes capillatus"
+  },
+  {
+    "genus": "Bertkauia",
+    "species": "crosbyana",
+    "family": "Epipsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 247249,
+    "URL": "https://bugguide.net/node/view/247249",
+    "commonName": "Bertkauia crosbyana"
+  },
+  {
+    "genus": "Valenzuela",
+    "species": "indicator",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 247976,
+    "URL": "https://bugguide.net/node/view/247976",
+    "commonName": "Valenzuela indicator"
+  },
+  {
+    "genus": "Indiopsocus",
+    "species": "texanus",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 251112,
+    "URL": "https://bugguide.net/node/view/251112",
+    "commonName": "Indiopsocus texanus"
+  },
+  {
+    "genus": "Valenzuela",
+    "species": "confluens",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 252184,
+    "URL": "https://bugguide.net/node/view/252184",
+    "commonName": "Valenzuela confluens"
+  },
+  {
+    "genus": "Philotarsus",
+    "species": "parviceps",
+    "family": "Philotarsidae",
+    "Order": "Psocodea",
+    "BugGuideID": 252185,
+    "URL": "https://bugguide.net/node/view/252185",
+    "commonName": "Philotarsus parviceps"
+  },
+  {
+    "genus": "Blastopsocus",
+    "species": "lithinus",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 252189,
+    "URL": "https://bugguide.net/node/view/252189",
+    "commonName": "Blastopsocus lithinus"
+  },
+  {
+    "genus": "Mesopsocus",
+    "species": "unipunctatus",
+    "family": "Mesopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 252323,
+    "URL": "https://bugguide.net/node/view/252323",
+    "commonName": "Mesopsocus unipunctatus"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "corona",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 254204,
+    "URL": "https://bugguide.net/node/view/254204",
+    "commonName": "Lachesilla corona"
+  },
+  {
+    "genus": "Valenzuela",
+    "species": "pinicola",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 254220,
+    "URL": "https://bugguide.net/node/view/254220",
+    "commonName": "Valenzuela pinicola"
+  },
+  {
+    "genus": "Cerobasis",
+    "species": "guestfalica",
+    "family": "Trogiidae",
+    "Order": "Psocodea",
+    "BugGuideID": 254221,
+    "URL": "https://bugguide.net/node/view/254221",
+    "commonName": "Cerobasis guestfalica"
+  },
+  {
+    "genus": "Pseudorypteryx",
+    "species": "mexicana",
+    "family": "Psyllipsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 255462,
+    "URL": "https://bugguide.net/node/view/255462",
+    "commonName": "Pseudorypteryx mexicana"
+  },
+  {
+    "genus": "Liposcelis",
+    "species": "bostrychophila",
+    "family": "Liposcelididae",
+    "Order": "Psocodea",
+    "BugGuideID": 255701,
+    "URL": "https://bugguide.net/node/view/255701",
+    "commonName": "Booklouse"
+  },
+  {
+    "genus": "Liposcelis",
+    "species": "nigra",
+    "family": "Liposcelididae",
+    "Order": "Psocodea",
+    "BugGuideID": 255703,
+    "URL": "https://bugguide.net/node/view/255703",
+    "commonName": "Liposcelis nigra"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "nita",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 257825,
+    "URL": "https://bugguide.net/node/view/257825",
+    "commonName": "Lachesilla nita"
+  },
+  {
+    "genus": "Valenzuela",
+    "species": "hyperboreus",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 257847,
+    "URL": "https://bugguide.net/node/view/257847",
+    "commonName": "Valenzuela hyperboreus"
+  },
+  {
+    "genus": "Hemipsocus",
+    "species": "chloroticus",
+    "family": "Hemipsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 258964,
+    "URL": "https://bugguide.net/node/view/258964",
+    "commonName": "Hemipsocus chloroticus"
+  },
+  {
+    "genus": "Reuterella",
+    "species": "helvimacula",
+    "family": "Elipsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 259693,
+    "URL": "https://bugguide.net/node/view/259693",
+    "commonName": "Reuterella helvimacula"
+  },
+  {
+    "genus": "Valenzuela",
+    "species": "subflavus",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 260443,
+    "URL": "https://bugguide.net/node/view/260443",
+    "commonName": "Valenzuela subflavus"
+  },
+  {
+    "genus": "Cerobasis",
+    "species": "annulata",
+    "family": "Trogiidae",
+    "Order": "Psocodea",
+    "BugGuideID": 260445,
+    "URL": "https://bugguide.net/node/view/260445",
+    "commonName": "Cerobasis annulata"
+  },
+  {
+    "genus": "Xanthocaecilius",
+    "species": "sommermanae",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 260500,
+    "URL": "https://bugguide.net/node/view/260500",
+    "commonName": "Xanthocaecilius sommermanae"
+  },
+  {
+    "genus": "Ectopsocus",
+    "species": "californicus",
+    "family": "Ectopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 262594,
+    "URL": "https://bugguide.net/node/view/262594",
+    "commonName": "Ectopsocus californicus"
+  },
+  {
+    "genus": "Ectopsocus",
+    "species": "meridionalis",
+    "family": "Ectopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 262603,
+    "URL": "https://bugguide.net/node/view/262603",
+    "commonName": "Ectopsocus meridionalis"
+  },
+  {
+    "genus": "Ectopsocopsis",
+    "species": "cryptomeriae",
+    "family": "Ectopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 262607,
+    "URL": "https://bugguide.net/node/view/262607",
+    "commonName": "Large-winged Psocid"
+  },
+  {
+    "genus": "Loensia",
+    "species": "maculosa",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 268770,
+    "URL": "https://bugguide.net/node/view/268770",
+    "commonName": "Loensia maculosa"
+  },
+  {
+    "genus": "Liposcelis",
+    "species": "brunnea",
+    "family": "Liposcelididae",
+    "Order": "Psocodea",
+    "BugGuideID": 272112,
+    "URL": "https://bugguide.net/node/view/272112",
+    "commonName": "Liposcelis brunnea"
+  },
+  {
+    "genus": "Amphigerontia",
+    "species": "montivaga",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 280495,
+    "URL": "https://bugguide.net/node/view/280495",
+    "commonName": "Amphigerontia montivaga"
+  },
+  {
+    "genus": "Philotarsus",
+    "species": "californicus",
+    "family": "Philotarsidae",
+    "Order": "Psocodea",
+    "BugGuideID": 287561,
+    "URL": "https://bugguide.net/node/view/287561",
+    "commonName": "Philotarsus californicus"
+  },
+  {
+    "genus": "Aaroniella",
+    "species": "badonneli",
+    "family": "Philotarsidae",
+    "Order": "Psocodea",
+    "BugGuideID": 287565,
+    "URL": "https://bugguide.net/node/view/287565",
+    "commonName": "Aaroniella badonneli"
+  },
+  {
+    "genus": "Blaste",
+    "species": "quieta",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 308853,
+    "URL": "https://bugguide.net/node/view/308853",
+    "commonName": "Blaste quieta"
+  },
+  {
+    "genus": "Trogium",
+    "species": "pulsatorium",
+    "family": "Trogiidae",
+    "Order": "Psocodea",
+    "BugGuideID": 330689,
+    "URL": "https://bugguide.net/node/view/330689",
+    "commonName": "Larger Pale Booklouse"
+  },
+  {
+    "genus": "Lichenomima",
+    "species": "coloradensis",
+    "family": "Myopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 342701,
+    "URL": "https://bugguide.net/node/view/342701",
+    "commonName": "Lichenomima coloradensis"
+  },
+  {
+    "genus": "Pteroxanium",
+    "species": "kelloggi",
+    "family": "Lepidopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 344970,
+    "URL": "https://bugguide.net/node/view/344970",
+    "commonName": "Pteroxanium kelloggi"
+  },
+  {
+    "genus": "Archipsocus",
+    "species": "floridanus",
+    "family": "Archipsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 355573,
+    "URL": "https://bugguide.net/node/view/355573",
+    "commonName": "Archipsocus floridanus"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "pedicularia",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 355605,
+    "URL": "https://bugguide.net/node/view/355605",
+    "commonName": "Cosmopolitan Grain Barklouse"
+  },
+  {
+    "genus": "Pthirus",
+    "species": "pubis",
+    "family": "Pthiridae",
+    "Order": "Psocodea",
+    "BugGuideID": 355656,
+    "URL": "https://bugguide.net/node/view/355656",
+    "commonName": "Crab Louse"
+  },
+  {
+    "genus": "Trichopsocus",
+    "species": "clarus",
+    "family": "Trichopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 355804,
+    "URL": "https://bugguide.net/node/view/355804",
+    "commonName": "Trichopsocus clarus"
+  },
+  {
+    "genus": "Mesopsocus",
+    "species": "laticeps",
+    "family": "Mesopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 358423,
+    "URL": "https://bugguide.net/node/view/358423",
+    "commonName": "Mesopsocus laticeps"
+  },
+  {
+    "genus": "Trichodectes",
+    "species": "canis",
+    "family": "Trichodectidae",
+    "Order": "Psocodea",
+    "BugGuideID": 369156,
+    "URL": "https://bugguide.net/node/view/369156",
+    "commonName": "Dog Biting Louse"
+  },
+  {
+    "genus": "Propsocus",
+    "species": "pulchripennis",
+    "family": "Elipsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 370217,
+    "URL": "https://bugguide.net/node/view/370217",
+    "commonName": "Propsocus pulchripennis"
+  },
+  {
+    "genus": "Maoripsocus",
+    "species": "africanus",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 370499,
+    "URL": "https://bugguide.net/node/view/370499",
+    "commonName": "Maoripsocus africanus"
+  },
+  {
+    "genus": "Ectopsocus",
+    "species": "vachoni",
+    "family": "Ectopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 370844,
+    "URL": "https://bugguide.net/node/view/370844",
+    "commonName": "Ectopsocus vachoni"
+  },
+  {
+    "genus": "Psyllipsocus",
+    "species": "ramburii",
+    "family": "Psyllipsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 383633,
+    "URL": "https://bugguide.net/node/view/383633",
+    "commonName": "Psyllipsocus ramburii"
+  },
+  {
+    "genus": "Amphigerontia",
+    "species": "bifasciata",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 396176,
+    "URL": "https://bugguide.net/node/view/396176",
+    "commonName": "Amphigerontia bifasciata"
+  },
+  {
+    "genus": "Trichadenotecnum",
+    "species": "slossonae",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 397009,
+    "URL": "https://bugguide.net/node/view/397009",
+    "commonName": "Trichadenotecnum slossonae"
+  },
+  {
+    "genus": "Psocus",
+    "species": "crosbyi",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 400527,
+    "URL": "https://bugguide.net/node/view/400527",
+    "commonName": "Psocus crosbyi"
+  },
+  {
+    "genus": "Cuneopalpus",
+    "species": "cyanops",
+    "family": "Elipsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 408045,
+    "URL": "https://bugguide.net/node/view/408045",
+    "commonName": "Cuneopalpus cyanops"
+  },
+  {
+    "genus": "Blaste",
+    "species": "garciorum",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 423425,
+    "URL": "https://bugguide.net/node/view/423425",
+    "commonName": "Blaste garciorum"
+  },
+  {
+    "genus": "Stenocaecilius",
+    "species": "casarum",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 424481,
+    "URL": "https://bugguide.net/node/view/424481",
+    "commonName": "Stenocaecilius casarum"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "kathrynae",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 424614,
+    "URL": "https://bugguide.net/node/view/424614",
+    "commonName": "Lachesilla kathrynae"
+  },
+  {
+    "genus": "Liposcelis",
+    "species": "decolor",
+    "family": "Liposcelididae",
+    "Order": "Psocodea",
+    "BugGuideID": 429611,
+    "URL": "https://bugguide.net/node/view/429611",
+    "commonName": "Liposcelis decolor"
+  },
+  {
+    "genus": "Blaste",
+    "species": "posticata",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 431046,
+    "URL": "https://bugguide.net/node/view/431046",
+    "commonName": "Blaste posticata"
+  },
+  {
+    "genus": "Trichopsocus",
+    "species": "dalii",
+    "family": "Trichopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 431911,
+    "URL": "https://bugguide.net/node/view/431911",
+    "commonName": "Trichopsocus dalii"
+  },
+  {
+    "genus": "Blastopsocus",
+    "species": "variabilis",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 432879,
+    "URL": "https://bugguide.net/node/view/432879",
+    "commonName": "Blastopsocus variabilis"
+  },
+  {
+    "genus": "Peripsocus",
+    "species": "minimus",
+    "family": "Peripsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 433257,
+    "URL": "https://bugguide.net/node/view/433257",
+    "commonName": "Peripsocus minimus"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "contraforcepeta",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 434355,
+    "URL": "https://bugguide.net/node/view/434355",
+    "commonName": "Lachesilla contraforcepeta"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "forcepeta",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 434561,
+    "URL": "https://bugguide.net/node/view/434561",
+    "commonName": "Lachesilla forcepeta"
+  },
+  {
+    "genus": "Hyalopsocus",
+    "species": "floridanus",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 439476,
+    "URL": "https://bugguide.net/node/view/439476",
+    "commonName": "Hyalopsocus floridanus"
+  },
+  {
+    "genus": "Lithoseopsis",
+    "species": "hellmani",
+    "family": "Amphientomidae",
+    "Order": "Psocodea",
+    "BugGuideID": 453149,
+    "URL": "https://bugguide.net/node/view/453149",
+    "commonName": "Lithoseopsis hellmani"
+  },
+  {
+    "genus": "Dorypteryx",
+    "species": "domestica",
+    "family": "Psyllipsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 457372,
+    "URL": "https://bugguide.net/node/view/457372",
+    "commonName": "Dorypteryx domestica"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "penta",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 458192,
+    "URL": "https://bugguide.net/node/view/458192",
+    "commonName": "Lachesilla penta"
+  },
+  {
+    "genus": "Nanopsocus",
+    "species": "oceanicus",
+    "family": "Pachytroctidae",
+    "Order": "Psocodea",
+    "BugGuideID": 460254,
+    "URL": "https://bugguide.net/node/view/460254",
+    "commonName": "Nanopsocus oceanicus"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "kola",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 461788,
+    "URL": "https://bugguide.net/node/view/461788",
+    "commonName": "Lachesilla kola"
+  },
+  {
+    "genus": "Peripsocus",
+    "species": "stagnivagus",
+    "family": "Peripsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 462330,
+    "URL": "https://bugguide.net/node/view/462330",
+    "commonName": "Peripsocus stagnivagus"
+  },
+  {
+    "genus": "Valenzuela",
+    "species": "posticus",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 464794,
+    "URL": "https://bugguide.net/node/view/464794",
+    "commonName": "Valenzuela posticus"
+  },
+  {
+    "genus": "Blastopsocus",
+    "species": "walshi",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 466191,
+    "URL": "https://bugguide.net/node/view/466191",
+    "commonName": "Blastopsocus walshi"
+  },
+  {
+    "genus": "Ectopsocus",
+    "species": "strauchi",
+    "family": "Ectopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 469221,
+    "URL": "https://bugguide.net/node/view/469221",
+    "commonName": "Ectopsocus strauchi"
+  },
+  {
+    "genus": "Peripsocus",
+    "species": "madidus",
+    "family": "Peripsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 471272,
+    "URL": "https://bugguide.net/node/view/471272",
+    "commonName": "Peripsocus madidus"
+  },
+  {
+    "genus": "Indiopsocus",
+    "species": "bisignatus",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 471709,
+    "URL": "https://bugguide.net/node/view/471709",
+    "commonName": "Indiopsocus bisignatus"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "rufa",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 471749,
+    "URL": "https://bugguide.net/node/view/471749",
+    "commonName": "Lachesilla rufa"
+  },
+  {
+    "genus": "Peripsocus",
+    "species": "maculosus",
+    "family": "Peripsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 472567,
+    "URL": "https://bugguide.net/node/view/472567",
+    "commonName": "Peripsocus maculosus"
+  },
+  {
+    "genus": "Indiopsocus",
+    "species": "infumatus",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 474209,
+    "URL": "https://bugguide.net/node/view/474209",
+    "commonName": "Indiopsocus infumatus"
+  },
+  {
+    "genus": "Anomopsocus",
+    "species": "amabilis",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 480989,
+    "URL": "https://bugguide.net/node/view/480989",
+    "commonName": "Anomopsocus amabilis"
+  },
+  {
+    "genus": "Peripsocus",
+    "species": "unnamed-one",
+    "family": "Peripsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 482812,
+    "URL": "https://bugguide.net/node/view/482812",
+    "commonName": "Peripsocus unnamed-one"
+  },
+  {
+    "genus": "Embidopsocus",
+    "species": "laticeps",
+    "family": "Liposcelididae",
+    "Order": "Psocodea",
+    "BugGuideID": 482916,
+    "URL": "https://bugguide.net/node/view/482916",
+    "commonName": "Embidopsocus laticeps"
+  },
+  {
+    "genus": "Indiopsocus",
+    "species": "ceterus",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 488348,
+    "URL": "https://bugguide.net/node/view/488348",
+    "commonName": "Indiopsocus ceterus"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "nubilis",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 493264,
+    "URL": "https://bugguide.net/node/view/493264",
+    "commonName": "Lachesilla nubilis"
+  },
+  {
+    "genus": "Amphigerontia",
+    "species": "petiolata",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 500525,
+    "URL": "https://bugguide.net/node/view/500525",
+    "commonName": "Amphigerontia petiolata"
+  },
+  {
+    "genus": "Valenzuela",
+    "species": "lachloosae",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 503608,
+    "URL": "https://bugguide.net/node/view/503608",
+    "commonName": "Valenzuela lachloosae"
+  },
+  {
+    "genus": "Lepinotus",
+    "species": "reticulatus",
+    "family": "Trogiidae",
+    "Order": "Psocodea",
+    "BugGuideID": 503896,
+    "URL": "https://bugguide.net/node/view/503896",
+    "commonName": "Reticulate-winged Trogiid"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "texana",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 507130,
+    "URL": "https://bugguide.net/node/view/507130",
+    "commonName": "Lachesilla texana"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "andra",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 507759,
+    "URL": "https://bugguide.net/node/view/507759",
+    "commonName": "Lachesilla andra"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "anna",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 508347,
+    "URL": "https://bugguide.net/node/view/508347",
+    "commonName": "Lachesilla anna"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "major",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 508348,
+    "URL": "https://bugguide.net/node/view/508348",
+    "commonName": "Lachesilla major"
+  },
+  {
+    "genus": "Liposcelis",
+    "species": "ornata",
+    "family": "Liposcelididae",
+    "Order": "Psocodea",
+    "BugGuideID": 508911,
+    "URL": "https://bugguide.net/node/view/508911",
+    "commonName": "Liposcelis ornata"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "yucateca",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 524642,
+    "URL": "https://bugguide.net/node/view/524642",
+    "commonName": "Lachesilla yucateca"
+  },
+  {
+    "genus": "Liposcelis",
+    "species": "entomophila",
+    "family": "Liposcelididae",
+    "Order": "Psocodea",
+    "BugGuideID": 527482,
+    "URL": "https://bugguide.net/node/view/527482",
+    "commonName": "Liposcelis entomophila"
+  },
+  {
+    "genus": "Neolepolepis",
+    "species": "occidentalis",
+    "family": "Lepidopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 536464,
+    "URL": "https://bugguide.net/node/view/536464",
+    "commonName": "Neolepolepis occidentalis"
+  },
+  {
+    "genus": "Liposcelis",
+    "species": "pearmani",
+    "family": "Liposcelididae",
+    "Order": "Psocodea",
+    "BugGuideID": 538266,
+    "URL": "https://bugguide.net/node/view/538266",
+    "commonName": "Liposcelis pearmani"
+  },
+  {
+    "genus": "Tapinella",
+    "species": "maculata",
+    "family": "Pachytroctidae",
+    "Order": "Psocodea",
+    "BugGuideID": 545984,
+    "URL": "https://bugguide.net/node/view/545984",
+    "commonName": "Tapinella maculata"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "tectorum",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 554225,
+    "URL": "https://bugguide.net/node/view/554225",
+    "commonName": "Lachesilla tectorum"
+  },
+  {
+    "genus": "Trichadenotecnum",
+    "species": "circularoides",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 567317,
+    "URL": "https://bugguide.net/node/view/567317",
+    "commonName": "Trichadenotecnum circularoides"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "sulcata",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 572989,
+    "URL": "https://bugguide.net/node/view/572989",
+    "commonName": "Lachesilla sulcata"
+  },
+  {
+    "genus": "Ectopsocus",
+    "species": "richardsi",
+    "family": "Ectopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 579221,
+    "URL": "https://bugguide.net/node/view/579221",
+    "commonName": "Ectopsocus richardsi"
+  },
+  {
+    "genus": "Pseudocaecilius",
+    "species": "citricola",
+    "family": "Pseudocaeciliidae",
+    "Order": "Psocodea",
+    "BugGuideID": 593167,
+    "URL": "https://bugguide.net/node/view/593167",
+    "commonName": "Pseudocaecilius citricola"
+  },
+  {
+    "genus": "Liposcelis",
+    "species": "pallida",
+    "family": "Liposcelididae",
+    "Order": "Psocodea",
+    "BugGuideID": 601135,
+    "URL": "https://bugguide.net/node/view/601135",
+    "commonName": "Liposcelis pallida"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "michiliensis",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 607931,
+    "URL": "https://bugguide.net/node/view/607931",
+    "commonName": "Lachesilla michiliensis"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "typhicola",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 609798,
+    "URL": "https://bugguide.net/node/view/609798",
+    "commonName": "Lachesilla typhicola"
+  },
+  {
+    "genus": "Camelopsocus",
+    "species": "tucsonensis",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 610665,
+    "URL": "https://bugguide.net/node/view/610665",
+    "commonName": "Camelopsocus tucsonensis"
+  },
+  {
+    "genus": "Echmepteryx",
+    "species": "intermedia",
+    "family": "Lepidopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 615698,
+    "URL": "https://bugguide.net/node/view/615698",
+    "commonName": "Echmepteryx intermedia"
+  },
+  {
+    "genus": "Peripsocus",
+    "species": "alachuae",
+    "family": "Peripsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 615873,
+    "URL": "https://bugguide.net/node/view/615873",
+    "commonName": "Peripsocus alachuae"
+  },
+  {
+    "genus": "Valenzuela",
+    "species": "nadleri",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 619720,
+    "URL": "https://bugguide.net/node/view/619720",
+    "commonName": "Valenzuela nadleri"
+  },
+  {
+    "genus": "Indiopsocus",
+    "species": "campestris",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 625975,
+    "URL": "https://bugguide.net/node/view/625975",
+    "commonName": "Indiopsocus campestris"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "tropica",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 633538,
+    "URL": "https://bugguide.net/node/view/633538",
+    "commonName": "Lachesilla tropica"
+  },
+  {
+    "genus": "Rhyopsocus",
+    "species": "bentonae",
+    "family": "Psoquillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 640162,
+    "URL": "https://bugguide.net/node/view/640162",
+    "commonName": "Rhyopsocus bentonae"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "floridana",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 683713,
+    "URL": "https://bugguide.net/node/view/683713",
+    "commonName": "Lachesilla floridana"
+  },
+  {
+    "genus": "Atropsocus",
+    "species": "atratus",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 704692,
+    "URL": "https://bugguide.net/node/view/704692",
+    "commonName": "Atropsocus atratus"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "rena",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 705686,
+    "URL": "https://bugguide.net/node/view/705686",
+    "commonName": "Lachesilla rena"
+  },
+  {
+    "genus": "Felicola",
+    "species": "subrostratus",
+    "family": "Trichodectidae",
+    "Order": "Psocodea",
+    "BugGuideID": 712399,
+    "URL": "https://bugguide.net/node/view/712399",
+    "commonName": "Cat Biting Louse"
+  },
+  {
+    "genus": "Chelopistes",
+    "species": "meleagridis",
+    "family": "Philopteridae",
+    "Order": "Psocodea",
+    "BugGuideID": 712755,
+    "URL": "https://bugguide.net/node/view/712755",
+    "commonName": "Large Turkey Louse"
+  },
+  {
+    "genus": "Menacanthus",
+    "species": "stramineus",
+    "family": "Menoponidae",
+    "Order": "Psocodea",
+    "BugGuideID": 712779,
+    "URL": "https://bugguide.net/node/view/712779",
+    "commonName": "Poultry Body Louse"
+  },
+  {
+    "genus": "Speleketor",
+    "species": "flocki",
+    "family": "Prionoglarididae",
+    "Order": "Psocodea",
+    "BugGuideID": 716164,
+    "URL": "https://bugguide.net/node/view/716164",
+    "commonName": "Speleketor flocki"
+  },
+  {
+    "genus": "Bertkauia",
+    "species": "lepicidinaria",
+    "family": "Epipsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 722659,
+    "URL": "https://bugguide.net/node/view/722659",
+    "commonName": "Bertkauia lepicidinaria"
+  },
+  {
+    "genus": "Steleops",
+    "species": "undescribed",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 729936,
+    "URL": "https://bugguide.net/node/view/729936",
+    "commonName": "Steleops undescribed"
+  },
+  {
+    "genus": "Valenzuela",
+    "species": "micanopi",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 740476,
+    "URL": "https://bugguide.net/node/view/740476",
+    "commonName": "Valenzuela micanopi"
+  },
+  {
+    "genus": "Liposcelis",
+    "species": "deltachi",
+    "family": "Liposcelididae",
+    "Order": "Psocodea",
+    "BugGuideID": 741162,
+    "URL": "https://bugguide.net/node/view/741162",
+    "commonName": "Liposcelis deltachi"
+  },
+  {
+    "genus": "Elipsocus",
+    "species": "hyalinus",
+    "family": "Elipsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 742998,
+    "URL": "https://bugguide.net/node/view/742998",
+    "commonName": "Elipsocus hyalinus"
+  },
+  {
+    "genus": "Myopsocus",
+    "species": "adventive-established-california",
+    "family": "Myopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 744569,
+    "URL": "https://bugguide.net/node/view/744569",
+    "commonName": "Myopsocus adventive-established-california"
+  },
+  {
+    "genus": "Asiopsocus",
+    "species": "sonorensis",
+    "family": "Asiopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 819082,
+    "URL": "https://bugguide.net/node/view/819082",
+    "commonName": "Asiopsocus sonorensis"
+  },
+  {
+    "genus": "Sphaeropsocus",
+    "species": "bicolor",
+    "family": "Sphaeropsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 819854,
+    "URL": "https://bugguide.net/node/view/819854",
+    "commonName": "Sphaeropsocus bicolor"
+  },
+  {
+    "genus": "Belaphotroctes",
+    "species": "undescribed",
+    "family": "Liposcelididae",
+    "Order": "Psocodea",
+    "BugGuideID": 831187,
+    "URL": "https://bugguide.net/node/view/831187",
+    "commonName": "Belaphotroctes undescribed"
+  },
+  {
+    "genus": "Trichadenotecnum",
+    "species": "quaesitum",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 832286,
+    "URL": "https://bugguide.net/node/view/832286",
+    "commonName": "Trichadenotecnum quaesitum"
+  },
+  {
+    "genus": "Hyalopsocus",
+    "species": "striatus",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 832290,
+    "URL": "https://bugguide.net/node/view/832290",
+    "commonName": "Hyalopsocus striatus"
+  },
+  {
+    "genus": "Lichenomima",
+    "species": "lugens",
+    "family": "Myopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 840583,
+    "URL": "https://bugguide.net/node/view/840583",
+    "commonName": "Lichenomima lugens"
+  },
+  {
+    "genus": "Lichenomima",
+    "species": "cf-sparsa",
+    "family": "Myopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 841217,
+    "URL": "https://bugguide.net/node/view/841217",
+    "commonName": "Lichenomima cf. sparsa"
+  },
+  {
+    "genus": "Thylacella",
+    "species": "cubana",
+    "family": "Lepidopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 850488,
+    "URL": "https://bugguide.net/node/view/850488",
+    "commonName": "Thylacella cubana"
+  },
+  {
+    "genus": "Indiopsocus",
+    "species": "new-to-fauna",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 853583,
+    "URL": "https://bugguide.net/node/view/853583",
+    "commonName": "Indiopsocus sp."
+  },
+  {
+    "genus": "Valenzuela",
+    "species": "manteri",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 862420,
+    "URL": "https://bugguide.net/node/view/862420",
+    "commonName": "Valenzuela manteri"
+  },
+  {
+    "genus": "Trichadenotecnum",
+    "species": "merum",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 862512,
+    "URL": "https://bugguide.net/node/view/862512",
+    "commonName": "Trichadenotecnum merum"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "dona",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 890136,
+    "URL": "https://bugguide.net/node/view/890136",
+    "commonName": "Lachesilla dona"
+  },
+  {
+    "genus": "Lepinotus",
+    "species": "inquilinus",
+    "family": "Trogiidae",
+    "Order": "Psocodea",
+    "BugGuideID": 891313,
+    "URL": "https://bugguide.net/node/view/891313",
+    "commonName": "Lepinotus inquilinus"
+  },
+  {
+    "genus": "Archipsocus",
+    "species": "sp-one-florida",
+    "family": "Archipsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 892487,
+    "URL": "https://bugguide.net/node/view/892487",
+    "commonName": "Archipsocus sp-one-florida"
+  },
+  {
+    "genus": "Valenzuela",
+    "species": "boreus",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 897328,
+    "URL": "https://bugguide.net/node/view/897328",
+    "commonName": "Valenzuela boreus"
+  },
+  {
+    "genus": "Valenzuela",
+    "species": "croesus",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 911925,
+    "URL": "https://bugguide.net/node/view/911925",
+    "commonName": "Valenzuela croesus"
+  },
+  {
+    "genus": "Camelopsocus",
+    "species": "similis",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 911934,
+    "URL": "https://bugguide.net/node/view/911934",
+    "commonName": "Camelopsocus similis"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "pacifica",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 912313,
+    "URL": "https://bugguide.net/node/view/912313",
+    "commonName": "Lachesilla pacifica"
+  },
+  {
+    "genus": "Liposcelis",
+    "species": "hirsutoides",
+    "family": "Liposcelididae",
+    "Order": "Psocodea",
+    "BugGuideID": 990739,
+    "URL": "https://bugguide.net/node/view/990739",
+    "commonName": "Liposcelis hirsutoides"
+  },
+  {
+    "genus": "Blaste",
+    "species": "subquieta",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 993612,
+    "URL": "https://bugguide.net/node/view/993612",
+    "commonName": "Blaste subquieta"
+  },
+  {
+    "genus": "Rhyopsocus",
+    "species": "eclipticus",
+    "family": "Psoquillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1015695,
+    "URL": "https://bugguide.net/node/view/1015695",
+    "commonName": "Rhyopsocus eclipticus"
+  },
+  {
+    "genus": "Peritroctes",
+    "species": "bengalensis",
+    "family": "Pachytroctidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1019400,
+    "URL": "https://bugguide.net/node/view/1019400",
+    "commonName": "Peritroctes bengalensis"
+  },
+  {
+    "genus": "Steleops",
+    "species": "elegans",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1024544,
+    "URL": "https://bugguide.net/node/view/1024544",
+    "commonName": "Steleops elegans"
+  },
+  {
+    "genus": "Blaste",
+    "species": "persimilis",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1024582,
+    "URL": "https://bugguide.net/node/view/1024582",
+    "commonName": "Blaste persimilis"
+  },
+  {
+    "genus": "Valenzuela",
+    "species": "gonostigma",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1025318,
+    "URL": "https://bugguide.net/node/view/1025318",
+    "commonName": "Valenzuela gonostigma"
+  },
+  {
+    "genus": "Ectopsocus",
+    "species": "thibaudi",
+    "family": "Ectopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1035701,
+    "URL": "https://bugguide.net/node/view/1035701",
+    "commonName": "Ectopsocus thibaudi"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "pallida",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1040403,
+    "URL": "https://bugguide.net/node/view/1040403",
+    "commonName": "Lachesilla pallida"
+  },
+  {
+    "genus": "Indiopsocus",
+    "species": "coquilletti",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1052927,
+    "URL": "https://bugguide.net/node/view/1052927",
+    "commonName": "Indiopsocus coquilletti"
+  },
+  {
+    "genus": "Brueelia",
+    "species": "brunneinucha",
+    "family": "Philopteridae",
+    "Order": "Psocodea",
+    "BugGuideID": 1076863,
+    "URL": "https://bugguide.net/node/view/1076863",
+    "commonName": "Brueelia brunneinucha"
+  },
+  {
+    "genus": "Blastopsocus",
+    "species": "johnstoni",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1130014,
+    "URL": "https://bugguide.net/node/view/1130014",
+    "commonName": "Blastopsocus johnstoni"
+  },
+  {
+    "genus": "Rhyopsocus",
+    "species": "texanus",
+    "family": "Psoquillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1132557,
+    "URL": "https://bugguide.net/node/view/1132557",
+    "commonName": "Rhyopsocus texanus"
+  },
+  {
+    "genus": "Valenzuela",
+    "species": "perplexus",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1142679,
+    "URL": "https://bugguide.net/node/view/1142679",
+    "commonName": "Valenzuela perplexus"
+  },
+  {
+    "genus": "Indiopsocus",
+    "species": "palmatus",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1143344,
+    "URL": "https://bugguide.net/node/view/1143344",
+    "commonName": "Indiopsocus palmatus"
+  },
+  {
+    "genus": "Indiopsocus",
+    "species": "lacteus",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1143363,
+    "URL": "https://bugguide.net/node/view/1143363",
+    "commonName": "Indiopsocus lacteus"
+  },
+  {
+    "genus": "Indiopsocus",
+    "species": "lanceolatus",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1143370,
+    "URL": "https://bugguide.net/node/view/1143370",
+    "commonName": "Indiopsocus lanceolatus"
+  },
+  {
+    "genus": "Blaste",
+    "species": "osceola",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1175018,
+    "URL": "https://bugguide.net/node/view/1175018",
+    "commonName": "Blaste osceola"
+  },
+  {
+    "genus": "Blaste",
+    "species": "oregona",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1247155,
+    "URL": "https://bugguide.net/node/view/1247155",
+    "commonName": "Blaste oregona"
+  },
+  {
+    "genus": "Rhyopsocus",
+    "species": "celtis",
+    "family": "Psoquillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1247503,
+    "URL": "https://bugguide.net/node/view/1247503",
+    "commonName": "Rhyopsocus celtis"
+  },
+  {
+    "genus": "Psyllipsocus",
+    "species": "apache",
+    "family": "Psyllipsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1256951,
+    "URL": "https://bugguide.net/node/view/1256951",
+    "commonName": "Psyllipsocus apache"
+  },
+  {
+    "genus": "Elipsocus",
+    "species": "pumilis",
+    "family": "Elipsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1287031,
+    "URL": "https://bugguide.net/node/view/1287031",
+    "commonName": "Elipsocus pumilis"
+  },
+  {
+    "genus": "Kaestneriella",
+    "species": "fumosa",
+    "family": "Peripsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1299125,
+    "URL": "https://bugguide.net/node/view/1299125",
+    "commonName": "Kaestneriella fumosa"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "punctata",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1311965,
+    "URL": "https://bugguide.net/node/view/1311965",
+    "commonName": "Lachesilla punctata"
+  },
+  {
+    "genus": "Blaste",
+    "species": "longipennis",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1340318,
+    "URL": "https://bugguide.net/node/view/1340318",
+    "commonName": "Blaste longipennis"
+  },
+  {
+    "genus": "Rhyopsocus",
+    "species": "quercus",
+    "family": "Psoquillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1340369,
+    "URL": "https://bugguide.net/node/view/1340369",
+    "commonName": "Rhyopsocus quercus"
+  },
+  {
+    "genus": "Echmepteryx",
+    "species": "youngi",
+    "family": "Lepidopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1349963,
+    "URL": "https://bugguide.net/node/view/1349963",
+    "commonName": "Echmepteryx youngi"
+  },
+  {
+    "genus": "Philotarsus",
+    "species": "kwakiutl",
+    "family": "Philotarsidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1356351,
+    "URL": "https://bugguide.net/node/view/1356351",
+    "commonName": "Philotarsus kwakiutl"
+  },
+  {
+    "genus": "Loensia",
+    "species": "conspersa",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1360975,
+    "URL": "https://bugguide.net/node/view/1360975",
+    "commonName": "Loensia conspersa"
+  },
+  {
+    "genus": "Elipsocus",
+    "species": "obscurus",
+    "family": "Elipsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1395275,
+    "URL": "https://bugguide.net/node/view/1395275",
+    "commonName": "Elipsocus obscurus"
+  },
+  {
+    "genus": "Valenzuela",
+    "species": "manteri",
+    "family": "Caeciliusidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1399013,
+    "URL": "https://bugguide.net/node/view/1399013",
+    "commonName": "Valenzuela manteri"
+  },
+  {
+    "genus": "Archipsocus",
+    "species": "nomas",
+    "family": "Archipsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1417888,
+    "URL": "https://bugguide.net/node/view/1417888",
+    "commonName": "Archipsocus nomas"
+  },
+  {
+    "genus": "Metylophorus",
+    "species": "barretti",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1460150,
+    "URL": "https://bugguide.net/node/view/1460150",
+    "commonName": "Metylophorus barretti"
+  },
+  {
+    "genus": "Blastopsocus",
+    "species": "semistriatus",
+    "family": "Psocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1474561,
+    "URL": "https://bugguide.net/node/view/1474561",
+    "commonName": "Blastopsocus semistriatus"
+  },
+  {
+    "genus": "Clinopsocus",
+    "species": "nigrescens",
+    "family": "Elipsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1513226,
+    "URL": "https://bugguide.net/node/view/1513226",
+    "commonName": "Clinopsocus nigrescens"
+  },
+  {
+    "genus": "Pachytroctes",
+    "species": "neoleonensis",
+    "family": "Pachytroctidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1558037,
+    "URL": "https://bugguide.net/node/view/1558037",
+    "commonName": "Pachytroctes neoleonensis"
+  },
+  {
+    "genus": "Tapinella",
+    "species": "undescribed",
+    "family": "Pachytroctidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1558038,
+    "URL": "https://bugguide.net/node/view/1558038",
+    "commonName": "Tapinella undescribed"
+  },
+  {
+    "genus": "Mesopsocus",
+    "species": "immunis",
+    "family": "Mesopsocidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1560782,
+    "URL": "https://bugguide.net/node/view/1560782",
+    "commonName": "Mesopsocus immunis"
+  },
+  {
+    "genus": "Lachesilla",
+    "species": "arida",
+    "family": "Lachesillidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1592930,
+    "URL": "https://bugguide.net/node/view/1592930",
+    "commonName": "Lachesilla arida"
+  },
+  {
+    "genus": "Philotarsus",
+    "species": "arizonicus",
+    "family": "Philotarsidae",
+    "Order": "Psocodea",
+    "BugGuideID": 1594653,
+    "URL": "https://bugguide.net/node/view/1594653",
+    "commonName": "Philotarsus arizonicus"
+  }
+]

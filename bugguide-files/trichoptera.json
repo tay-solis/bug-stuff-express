@@ -1,0 +1,2135 @@
+[
+  {
+    "genus": "Macrostemum",
+    "species": "zebratum",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 13141,
+    "URL": "https://bugguide.net/node/view/13141",
+    "commonName": "Zebra Caddisfly"
+  },
+  {
+    "genus": "Mystacides",
+    "species": "sepulchralis",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 27365,
+    "URL": "https://bugguide.net/node/view/27365",
+    "commonName": "Black Dancer"
+  },
+  {
+    "genus": "Limnephilus",
+    "species": "ornatus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 40590,
+    "URL": "https://bugguide.net/node/view/40590",
+    "commonName": "Limnephilus ornatus"
+  },
+  {
+    "genus": "Nemotaulius",
+    "species": "hostilis",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 51938,
+    "URL": "https://bugguide.net/node/view/51938",
+    "commonName": "Nemotaulius hostilis"
+  },
+  {
+    "genus": "Nectopsyche",
+    "species": "exquisita",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 53453,
+    "URL": "https://bugguide.net/node/view/53453",
+    "commonName": "Nectopsyche exquisita"
+  },
+  {
+    "genus": "Hydatophylax",
+    "species": "argus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 80600,
+    "URL": "https://bugguide.net/node/view/80600",
+    "commonName": "Hydatophylax argus"
+  },
+  {
+    "genus": "Platycentropus",
+    "species": "radiatus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 126850,
+    "URL": "https://bugguide.net/node/view/126850",
+    "commonName": "Chocolate and Cream Sedge"
+  },
+  {
+    "genus": "Banksiola",
+    "species": "crotchi",
+    "family": "Phryganeidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 126851,
+    "URL": "https://bugguide.net/node/view/126851",
+    "commonName": "Banksiola crotchi"
+  },
+  {
+    "genus": "Ceraclea",
+    "species": "slossonae",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 126855,
+    "URL": "https://bugguide.net/node/view/126855",
+    "commonName": "Ceraclea slossonae"
+  },
+  {
+    "genus": "Leptocerus",
+    "species": "americanus",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 126857,
+    "URL": "https://bugguide.net/node/view/126857",
+    "commonName": "Leptocerus americanus"
+  },
+  {
+    "genus": "Pycnopsyche",
+    "species": "limbata",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 146449,
+    "URL": "https://bugguide.net/node/view/146449",
+    "commonName": "Pycnopsyche limbata"
+  },
+  {
+    "genus": "Limnephilus",
+    "species": "submonilifer",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 146451,
+    "URL": "https://bugguide.net/node/view/146451",
+    "commonName": "Limnephilus submonilifer"
+  },
+  {
+    "genus": "Ironoquia",
+    "species": "lyrata",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 151614,
+    "URL": "https://bugguide.net/node/view/151614",
+    "commonName": "Eastern Boxed-wing Sedge"
+  },
+  {
+    "genus": "Pycnopsyche",
+    "species": "scabripennis",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 151633,
+    "URL": "https://bugguide.net/node/view/151633",
+    "commonName": "Giant Red Sedge"
+  },
+  {
+    "genus": "Neophylax",
+    "species": "oligius",
+    "family": "Thremmatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 152143,
+    "URL": "https://bugguide.net/node/view/152143",
+    "commonName": "Autumn Sedge"
+  },
+  {
+    "genus": "Onocosmoecus",
+    "species": "unicolor",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 165212,
+    "URL": "https://bugguide.net/node/view/165212",
+    "commonName": "Onocosmoecus unicolor"
+  },
+  {
+    "genus": "Dolophilodes",
+    "species": "distinctus",
+    "family": "Philopotamidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 165214,
+    "URL": "https://bugguide.net/node/view/165214",
+    "commonName": "Dolophilodes distinctus"
+  },
+  {
+    "genus": "Cernotina",
+    "species": "spicata",
+    "family": "Polycentropodidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 165216,
+    "URL": "https://bugguide.net/node/view/165216",
+    "commonName": "Cernotina spicata"
+  },
+  {
+    "genus": "Rhyacophila",
+    "species": "acutiloba",
+    "family": "Rhyacophilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 165217,
+    "URL": "https://bugguide.net/node/view/165217",
+    "commonName": "Rhyacophila acutiloba"
+  },
+  {
+    "genus": "Psilotreta",
+    "species": "frontalis",
+    "family": "Odontoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 165220,
+    "URL": "https://bugguide.net/node/view/165220",
+    "commonName": "Psilotreta frontalis"
+  },
+  {
+    "genus": "Arctopsyche",
+    "species": "ladogensis",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 165223,
+    "URL": "https://bugguide.net/node/view/165223",
+    "commonName": "Arctopsyche ladogensis"
+  },
+  {
+    "genus": "Hesperophylax",
+    "species": "designatus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 171847,
+    "URL": "https://bugguide.net/node/view/171847",
+    "commonName": "Silver-striped Sedge"
+  },
+  {
+    "genus": "Parapsyche",
+    "species": "apicalis",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 179682,
+    "URL": "https://bugguide.net/node/view/179682",
+    "commonName": "Parapsyche apicalis"
+  },
+  {
+    "genus": "Brachycentrus",
+    "species": "numerosus",
+    "family": "Brachycentridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 183361,
+    "URL": "https://bugguide.net/node/view/183361",
+    "commonName": "Brachycentrus numerosus"
+  },
+  {
+    "genus": "Rhyacophila",
+    "species": "fuscula",
+    "family": "Rhyacophilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 197739,
+    "URL": "https://bugguide.net/node/view/197739",
+    "commonName": "Rhyacophila fuscula"
+  },
+  {
+    "genus": "Phryganea",
+    "species": "sayi",
+    "family": "Phryganeidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 198161,
+    "URL": "https://bugguide.net/node/view/198161",
+    "commonName": "Phryganea sayi"
+  },
+  {
+    "genus": "Dibusa",
+    "species": "angata",
+    "family": "Hydroptilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 198937,
+    "URL": "https://bugguide.net/node/view/198937",
+    "commonName": "Dibusa angata"
+  },
+  {
+    "genus": "Potamyia",
+    "species": "flava",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 201418,
+    "URL": "https://bugguide.net/node/view/201418",
+    "commonName": "Potamyia flava"
+  },
+  {
+    "genus": "Nectopsyche",
+    "species": "albida",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 203287,
+    "URL": "https://bugguide.net/node/view/203287",
+    "commonName": "Nectopsyche albida"
+  },
+  {
+    "genus": "Ceraclea",
+    "species": "resurgens",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 203445,
+    "URL": "https://bugguide.net/node/view/203445",
+    "commonName": "Ceraclea resurgens"
+  },
+  {
+    "genus": "Neophylax",
+    "species": "aniqua",
+    "family": "Thremmatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 203780,
+    "URL": "https://bugguide.net/node/view/203780",
+    "commonName": "Neophylax aniqua"
+  },
+  {
+    "genus": "Setodes",
+    "species": "incertus",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 205147,
+    "URL": "https://bugguide.net/node/view/205147",
+    "commonName": "Setodes incertus"
+  },
+  {
+    "genus": "Frenesia",
+    "species": "missa",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 205149,
+    "URL": "https://bugguide.net/node/view/205149",
+    "commonName": "Frenesia missa"
+  },
+  {
+    "genus": "Halesochila",
+    "species": "taylori",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 205896,
+    "URL": "https://bugguide.net/node/view/205896",
+    "commonName": "Halesochila taylori"
+  },
+  {
+    "genus": "Agraylea",
+    "species": "multipunctata",
+    "family": "Hydroptilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 222053,
+    "URL": "https://bugguide.net/node/view/222053",
+    "commonName": "Salt and Pepper Microcaddis"
+  },
+  {
+    "genus": "Lype",
+    "species": "diversa",
+    "family": "Psychomyiidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 231196,
+    "URL": "https://bugguide.net/node/view/231196",
+    "commonName": "Lype diversa"
+  },
+  {
+    "genus": "Neophylax",
+    "species": "splendens",
+    "family": "Thremmatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 231626,
+    "URL": "https://bugguide.net/node/view/231626",
+    "commonName": "Neophylax splendens"
+  },
+  {
+    "genus": "Frenesia",
+    "species": "difficilis",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 243116,
+    "URL": "https://bugguide.net/node/view/243116",
+    "commonName": "Frenesia difficilis"
+  },
+  {
+    "genus": "Smicridea",
+    "species": "dispar",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 246320,
+    "URL": "https://bugguide.net/node/view/246320",
+    "commonName": "Smicridea dispar"
+  },
+  {
+    "genus": "Mystacides",
+    "species": "interjectus",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 248246,
+    "URL": "https://bugguide.net/node/view/248246",
+    "commonName": "Mystacides interjectus"
+  },
+  {
+    "genus": "Molanna",
+    "species": "blenda",
+    "family": "Molannidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 253388,
+    "URL": "https://bugguide.net/node/view/253388",
+    "commonName": "Molanna blenda"
+  },
+  {
+    "genus": "Goera",
+    "species": "fuscula",
+    "family": "Goeridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 253391,
+    "URL": "https://bugguide.net/node/view/253391",
+    "commonName": "Goera fuscula"
+  },
+  {
+    "genus": "Namamyia",
+    "species": "plutonis",
+    "family": "Odontoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 253395,
+    "URL": "https://bugguide.net/node/view/253395",
+    "commonName": "Namamyia plutonis"
+  },
+  {
+    "genus": "Agrypnia",
+    "species": "vestita",
+    "family": "Phryganeidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 253416,
+    "URL": "https://bugguide.net/node/view/253416",
+    "commonName": "Agrypnia vestita"
+  },
+  {
+    "genus": "Limnephilus",
+    "species": "rhombicus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 253433,
+    "URL": "https://bugguide.net/node/view/253433",
+    "commonName": "Limnephilus rhombicus"
+  },
+  {
+    "genus": "Brachycentrus",
+    "species": "occidentalis",
+    "family": "Brachycentridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 259141,
+    "URL": "https://bugguide.net/node/view/259141",
+    "commonName": "Brachycentrus occidentalis"
+  },
+  {
+    "genus": "Pycnopsyche",
+    "species": "guttifera",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 259296,
+    "URL": "https://bugguide.net/node/view/259296",
+    "commonName": "Pycnopsyche guttifera"
+  },
+  {
+    "genus": "Pycnopsyche",
+    "species": "lepida",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 259471,
+    "URL": "https://bugguide.net/node/view/259471",
+    "commonName": "Pycnopsyche lepida group"
+  },
+  {
+    "genus": "Oligostomis",
+    "species": "ocelligera",
+    "family": "Phryganeidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 262766,
+    "URL": "https://bugguide.net/node/view/262766",
+    "commonName": "Oligostomis ocelligera"
+  },
+  {
+    "genus": "Brachycentrus",
+    "species": "americanus",
+    "family": "Brachycentridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 262767,
+    "URL": "https://bugguide.net/node/view/262767",
+    "commonName": "Brachycentrus (Oligoplectrodes) americanus"
+  },
+  {
+    "genus": "Psychoglypha",
+    "species": "subborealis",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 262784,
+    "URL": "https://bugguide.net/node/view/262784",
+    "commonName": "Psychoglypha subborealis"
+  },
+  {
+    "genus": "Rhyacophila",
+    "species": "carpenteri",
+    "family": "Rhyacophilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 263252,
+    "URL": "https://bugguide.net/node/view/263252",
+    "commonName": "Rhyacophila carpenteri"
+  },
+  {
+    "genus": "Hydropsyche",
+    "species": "sparna",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 263254,
+    "URL": "https://bugguide.net/node/view/263254",
+    "commonName": "Hydropsyche sparna"
+  },
+  {
+    "genus": "Chimarra",
+    "species": "aterrima",
+    "family": "Philopotamidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 266785,
+    "URL": "https://bugguide.net/node/view/266785",
+    "commonName": "Chimarra aterrima"
+  },
+  {
+    "genus": "Phylocentropus",
+    "species": "carolinus",
+    "family": "Dipseudopsidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 271004,
+    "URL": "https://bugguide.net/node/view/271004",
+    "commonName": "Phylocentropus carolinus"
+  },
+  {
+    "genus": "Hydropsyche",
+    "species": "alhedra",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 271106,
+    "URL": "https://bugguide.net/node/view/271106",
+    "commonName": "Hydropsyche alhedra"
+  },
+  {
+    "genus": "Macrostemum",
+    "species": "carolina",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 274448,
+    "URL": "https://bugguide.net/node/view/274448",
+    "commonName": "Macrostemum carolina"
+  },
+  {
+    "genus": "Psilotreta",
+    "species": "labida",
+    "family": "Odontoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 277418,
+    "URL": "https://bugguide.net/node/view/277418",
+    "commonName": "Psilotreta labida"
+  },
+  {
+    "genus": "Neophylax",
+    "species": "fuscus",
+    "family": "Thremmatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 285246,
+    "URL": "https://bugguide.net/node/view/285246",
+    "commonName": "Neophylax fuscus"
+  },
+  {
+    "genus": "Hydropsyche",
+    "species": "betteni",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 285251,
+    "URL": "https://bugguide.net/node/view/285251",
+    "commonName": "Hydropsyche betteni"
+  },
+  {
+    "genus": "Hydropsyche",
+    "species": "morosa",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 288971,
+    "URL": "https://bugguide.net/node/view/288971",
+    "commonName": "Hydropsyche morosa"
+  },
+  {
+    "genus": "Pseudostenophylax",
+    "species": "sparsus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 303557,
+    "URL": "https://bugguide.net/node/view/303557",
+    "commonName": "Pseudostenophylax sparsus"
+  },
+  {
+    "genus": "Holocentropus",
+    "species": "flavus",
+    "family": "Polycentropodidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 332915,
+    "URL": "https://bugguide.net/node/view/332915",
+    "commonName": "Holocentropus flavus"
+  },
+  {
+    "genus": "Holocentropus",
+    "species": "interruptus",
+    "family": "Polycentropodidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 332921,
+    "URL": "https://bugguide.net/node/view/332921",
+    "commonName": "Holocentropus interruptus"
+  },
+  {
+    "genus": "Triaenodes",
+    "species": "aba",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 332924,
+    "URL": "https://bugguide.net/node/view/332924",
+    "commonName": "Triaenodes aba"
+  },
+  {
+    "genus": "Ceraclea",
+    "species": "transversa",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 332925,
+    "URL": "https://bugguide.net/node/view/332925",
+    "commonName": "Ceraclea transversa"
+  },
+  {
+    "genus": "Banksiola",
+    "species": "dossuaria",
+    "family": "Phryganeidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 332941,
+    "URL": "https://bugguide.net/node/view/332941",
+    "commonName": "Banksiola dossuaria"
+  },
+  {
+    "genus": "Chimarra",
+    "species": "obscura",
+    "family": "Philopotamidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 332946,
+    "URL": "https://bugguide.net/node/view/332946",
+    "commonName": "Chimarra obscura"
+  },
+  {
+    "genus": "Lepidostoma",
+    "species": "vernale",
+    "family": "Lepidostomatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 332948,
+    "URL": "https://bugguide.net/node/view/332948",
+    "commonName": "Lepidostoma vernale"
+  },
+  {
+    "genus": "Plectrocnemia",
+    "species": "crassicornis",
+    "family": "Polycentropodidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 332953,
+    "URL": "https://bugguide.net/node/view/332953",
+    "commonName": "Plectrocnemia crassicornis"
+  },
+  {
+    "genus": "Neophylax",
+    "species": "concinnus",
+    "family": "Thremmatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 334377,
+    "URL": "https://bugguide.net/node/view/334377",
+    "commonName": "Neophylax concinnus"
+  },
+  {
+    "genus": "Diplectrona",
+    "species": "modesta",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 335404,
+    "URL": "https://bugguide.net/node/view/335404",
+    "commonName": "Diplectrona modesta"
+  },
+  {
+    "genus": "Pseudostenophylax",
+    "species": "uniformis",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 336314,
+    "URL": "https://bugguide.net/node/view/336314",
+    "commonName": "Pseudostenophylax uniformis"
+  },
+  {
+    "genus": "Lepidostoma",
+    "species": "sommermanae",
+    "family": "Lepidostomatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 342995,
+    "URL": "https://bugguide.net/node/view/342995",
+    "commonName": "Lepidostoma sommermanae"
+  },
+  {
+    "genus": "Arctopsyche",
+    "species": "grandis",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 344844,
+    "URL": "https://bugguide.net/node/view/344844",
+    "commonName": "Arctopsyche grandis"
+  },
+  {
+    "genus": "Hydroptila",
+    "species": "armata",
+    "family": "Hydroptilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 347574,
+    "URL": "https://bugguide.net/node/view/347574",
+    "commonName": "Hydroptila armata"
+  },
+  {
+    "genus": "Cheumatopsyche",
+    "species": "analis",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 352089,
+    "URL": "https://bugguide.net/node/view/352089",
+    "commonName": "Cheumatopsyche analis"
+  },
+  {
+    "genus": "Parapsyche",
+    "species": "elsis",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 362767,
+    "URL": "https://bugguide.net/node/view/362767",
+    "commonName": "Parapsyche elsis"
+  },
+  {
+    "genus": "Oxyethira",
+    "species": "pallida",
+    "family": "Hydroptilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 365190,
+    "URL": "https://bugguide.net/node/view/365190",
+    "commonName": "Oxyethira pallida"
+  },
+  {
+    "genus": "Rhyacophila",
+    "species": "nigrita",
+    "family": "Rhyacophilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 385401,
+    "URL": "https://bugguide.net/node/view/385401",
+    "commonName": "Rhyacophila nigrita"
+  },
+  {
+    "genus": "Hydroptila",
+    "species": "callia",
+    "family": "Hydroptilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 385402,
+    "URL": "https://bugguide.net/node/view/385402",
+    "commonName": "Hydroptila callia"
+  },
+  {
+    "genus": "Apatania",
+    "species": "incerta",
+    "family": "Apataniidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 386476,
+    "URL": "https://bugguide.net/node/view/386476",
+    "commonName": "Apatania incerta"
+  },
+  {
+    "genus": "Hydropsyche",
+    "species": "bronta",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 387603,
+    "URL": "https://bugguide.net/node/view/387603",
+    "commonName": "Hydropsyche bronta"
+  },
+  {
+    "genus": "Micrasema",
+    "species": "rusticum",
+    "family": "Brachycentridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 387607,
+    "URL": "https://bugguide.net/node/view/387607",
+    "commonName": "Micrasema rusticum"
+  },
+  {
+    "genus": "Lepidostoma",
+    "species": "reosum",
+    "family": "Lepidostomatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 387609,
+    "URL": "https://bugguide.net/node/view/387609",
+    "commonName": "Lepidostoma reosum"
+  },
+  {
+    "genus": "Polycentropus",
+    "species": "maculatus",
+    "family": "Polycentropodidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 387611,
+    "URL": "https://bugguide.net/node/view/387611",
+    "commonName": "Polycentropus maculatus"
+  },
+  {
+    "genus": "Neureclipsis",
+    "species": "crepuscularis",
+    "family": "Polycentropodidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 388093,
+    "URL": "https://bugguide.net/node/view/388093",
+    "commonName": "Neureclipsis crepuscularis"
+  },
+  {
+    "genus": "Molanna",
+    "species": "uniophila",
+    "family": "Molannidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 388466,
+    "URL": "https://bugguide.net/node/view/388466",
+    "commonName": "Molanna uniophila"
+  },
+  {
+    "genus": "Molanna",
+    "species": "ulmerina",
+    "family": "Molannidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 388469,
+    "URL": "https://bugguide.net/node/view/388469",
+    "commonName": "Molanna ulmerina"
+  },
+  {
+    "genus": "Triaenodes",
+    "species": "tardus",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 388473,
+    "URL": "https://bugguide.net/node/view/388473",
+    "commonName": "Triaenodes tardus"
+  },
+  {
+    "genus": "Oecetis",
+    "species": "cinerascens",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 388478,
+    "URL": "https://bugguide.net/node/view/388478",
+    "commonName": "Oecetis cinerascens"
+  },
+  {
+    "genus": "Cheumatopsyche",
+    "species": "campyla",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 388480,
+    "URL": "https://bugguide.net/node/view/388480",
+    "commonName": "Cheumatopsyche campyla"
+  },
+  {
+    "genus": "Rhyacophila",
+    "species": "manistee",
+    "family": "Rhyacophilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 388494,
+    "URL": "https://bugguide.net/node/view/388494",
+    "commonName": "Rhyacophila manistee"
+  },
+  {
+    "genus": "Agapetus",
+    "species": "rossi",
+    "family": "Glossosomatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 388539,
+    "URL": "https://bugguide.net/node/view/388539",
+    "commonName": "Agapetus rossi"
+  },
+  {
+    "genus": "Oligostomis",
+    "species": "pardalis",
+    "family": "Phryganeidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 397909,
+    "URL": "https://bugguide.net/node/view/397909",
+    "commonName": "Oligostomis pardalis"
+  },
+  {
+    "genus": "Ironoquia",
+    "species": "parvula",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 423586,
+    "URL": "https://bugguide.net/node/view/423586",
+    "commonName": "Ironoquia parvula"
+  },
+  {
+    "genus": "Limnephilus",
+    "species": "parvulus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 432141,
+    "URL": "https://bugguide.net/node/view/432141",
+    "commonName": "Limnephilus parvulus"
+  },
+  {
+    "genus": "Brachycentrus",
+    "species": "lateralis",
+    "family": "Brachycentridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 459581,
+    "URL": "https://bugguide.net/node/view/459581",
+    "commonName": "Brachycentrus lateralis"
+  },
+  {
+    "genus": "Pycnopsyche",
+    "species": "antica",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 472638,
+    "URL": "https://bugguide.net/node/view/472638",
+    "commonName": "Pycnopsyche antica"
+  },
+  {
+    "genus": "Desmona",
+    "species": "bethula",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 484503,
+    "URL": "https://bugguide.net/node/view/484503",
+    "commonName": "Desmona bethula"
+  },
+  {
+    "genus": "Pseudostenophylax",
+    "species": "edwardsi",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 484510,
+    "URL": "https://bugguide.net/node/view/484510",
+    "commonName": "Pseudostenophylax edwardsi"
+  },
+  {
+    "genus": "Mystacides",
+    "species": "alafimbriatus",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 484512,
+    "URL": "https://bugguide.net/node/view/484512",
+    "commonName": "Mystacides alafimbriatus"
+  },
+  {
+    "genus": "Chilostigma",
+    "species": "itascae",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 493039,
+    "URL": "https://bugguide.net/node/view/493039",
+    "commonName": "Headwaters Chilostigman Caddisfly"
+  },
+  {
+    "genus": "Ptilostomis",
+    "species": "ocellifera",
+    "family": "Phryganeidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 499157,
+    "URL": "https://bugguide.net/node/view/499157",
+    "commonName": "Ptilostomis ocellifera"
+  },
+  {
+    "genus": "Rhyacophila",
+    "species": "formosa",
+    "family": "Rhyacophilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 501549,
+    "URL": "https://bugguide.net/node/view/501549",
+    "commonName": "Rhyacophila formosa"
+  },
+  {
+    "genus": "Limnephilus",
+    "species": "indivisus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 501550,
+    "URL": "https://bugguide.net/node/view/501550",
+    "commonName": "Limnephilus indivisus"
+  },
+  {
+    "genus": "Ironoquia",
+    "species": "punctatissima",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 501551,
+    "URL": "https://bugguide.net/node/view/501551",
+    "commonName": "Ironoquia punctatissima"
+  },
+  {
+    "genus": "Lepidostoma",
+    "species": "togatum",
+    "family": "Lepidostomatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 502708,
+    "URL": "https://bugguide.net/node/view/502708",
+    "commonName": "Lepidostoma togatum"
+  },
+  {
+    "genus": "Triaenodes",
+    "species": "marginata",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 502734,
+    "URL": "https://bugguide.net/node/view/502734",
+    "commonName": "Triaenodes marginata"
+  },
+  {
+    "genus": "Anabolia",
+    "species": "consocia",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 502737,
+    "URL": "https://bugguide.net/node/view/502737",
+    "commonName": "Anabolia consocia"
+  },
+  {
+    "genus": "Micrasema",
+    "species": "wataga",
+    "family": "Brachycentridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 504138,
+    "URL": "https://bugguide.net/node/view/504138",
+    "commonName": "Micrasema wataga"
+  },
+  {
+    "genus": "Homoplectra",
+    "species": "doringa",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 513901,
+    "URL": "https://bugguide.net/node/view/513901",
+    "commonName": "Homoplectra doringa"
+  },
+  {
+    "genus": "Clostoeca",
+    "species": "disjuncta",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 519663,
+    "URL": "https://bugguide.net/node/view/519663",
+    "commonName": "Clostoeca disjuncta"
+  },
+  {
+    "genus": "Hesperophylax",
+    "species": "magnus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 530025,
+    "URL": "https://bugguide.net/node/view/530025",
+    "commonName": "Hesperophylax magnus"
+  },
+  {
+    "genus": "Agrypnia",
+    "species": "glacialis",
+    "family": "Phryganeidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 535123,
+    "URL": "https://bugguide.net/node/view/535123",
+    "commonName": "Agrypnia glacialis"
+  },
+  {
+    "genus": "Hydroptila",
+    "species": "grandiosa",
+    "family": "Hydroptilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 564533,
+    "URL": "https://bugguide.net/node/view/564533",
+    "commonName": "Hydroptila grandiosa"
+  },
+  {
+    "genus": "Phylloicus",
+    "species": "mexicanus",
+    "family": "Calamoceratidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 603026,
+    "URL": "https://bugguide.net/node/view/603026",
+    "commonName": "Phylloicus mexicanus"
+  },
+  {
+    "genus": "Rhyacophila",
+    "species": "carolina",
+    "family": "Rhyacophilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 619302,
+    "URL": "https://bugguide.net/node/view/619302",
+    "commonName": "Rhyacophila carolina"
+  },
+  {
+    "genus": "Hydropsyche",
+    "species": "slossonae",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 624127,
+    "URL": "https://bugguide.net/node/view/624127",
+    "commonName": "Hydropsyche slossonae"
+  },
+  {
+    "genus": "Cheumatopsyche",
+    "species": "ela",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 624128,
+    "URL": "https://bugguide.net/node/view/624128",
+    "commonName": "Cheumatopsyche ela"
+  },
+  {
+    "genus": "Wormaldia",
+    "species": "moesta",
+    "family": "Philopotamidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 624133,
+    "URL": "https://bugguide.net/node/view/624133",
+    "commonName": "Wormaldia moesta"
+  },
+  {
+    "genus": "Hydropsyche",
+    "species": "walkeri",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 624134,
+    "URL": "https://bugguide.net/node/view/624134",
+    "commonName": "Hydropsyche walkeri"
+  },
+  {
+    "genus": "Psilotreta",
+    "species": "indecisa",
+    "family": "Odontoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 624135,
+    "URL": "https://bugguide.net/node/view/624135",
+    "commonName": "Psilotreta indecisa"
+  },
+  {
+    "genus": "Phylocentropus",
+    "species": "placidus",
+    "family": "Dipseudopsidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 624141,
+    "URL": "https://bugguide.net/node/view/624141",
+    "commonName": "Phylocentropus placidus"
+  },
+  {
+    "genus": "Phylocentropus",
+    "species": "lucidus",
+    "family": "Dipseudopsidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 624142,
+    "URL": "https://bugguide.net/node/view/624142",
+    "commonName": "Phylocentropus lucidus"
+  },
+  {
+    "genus": "Oecetis",
+    "species": "inconspicua",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 624143,
+    "URL": "https://bugguide.net/node/view/624143",
+    "commonName": "Oecetis inconspicua"
+  },
+  {
+    "genus": "Triaenodes",
+    "species": "dipsia",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 624149,
+    "URL": "https://bugguide.net/node/view/624149",
+    "commonName": "Triaenodes nr. dipsia"
+  },
+  {
+    "genus": "Triaenodes",
+    "species": "injusta",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 624152,
+    "URL": "https://bugguide.net/node/view/624152",
+    "commonName": "Triaenodes injusta"
+  },
+  {
+    "genus": "Glossosoma",
+    "species": "nigrior",
+    "family": "Glossosomatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 647776,
+    "URL": "https://bugguide.net/node/view/647776",
+    "commonName": "Glossosoma nigrior"
+  },
+  {
+    "genus": "Hydropsyche",
+    "species": "venularis",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 687356,
+    "URL": "https://bugguide.net/node/view/687356",
+    "commonName": "Hydropsyche venularis"
+  },
+  {
+    "genus": "Brachycentrus",
+    "species": "appalachia",
+    "family": "Brachycentridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 696979,
+    "URL": "https://bugguide.net/node/view/696979",
+    "commonName": "Brachycentrus appalachia"
+  },
+  {
+    "genus": "Pycnopsyche",
+    "species": "gentilis",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 703331,
+    "URL": "https://bugguide.net/node/view/703331",
+    "commonName": "Pycnopsyche gentilis"
+  },
+  {
+    "genus": "Hydropsyche",
+    "species": "rossi",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 712926,
+    "URL": "https://bugguide.net/node/view/712926",
+    "commonName": "Hydropsyche rossi"
+  },
+  {
+    "genus": "Neophylax",
+    "species": "consimilis",
+    "family": "Thremmatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 727501,
+    "URL": "https://bugguide.net/node/view/727501",
+    "commonName": "Neophylax consimilis"
+  },
+  {
+    "genus": "Pedomoecus",
+    "species": "sierra",
+    "family": "Apataniidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 736021,
+    "URL": "https://bugguide.net/node/view/736021",
+    "commonName": "Pedomoecus sierra"
+  },
+  {
+    "genus": "Neophylax",
+    "species": "mitchelli",
+    "family": "Thremmatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 739567,
+    "URL": "https://bugguide.net/node/view/739567",
+    "commonName": "Neophylax mitchelli"
+  },
+  {
+    "genus": "Plectrocnemia",
+    "species": "variegata",
+    "family": "Polycentropodidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 745448,
+    "URL": "https://bugguide.net/node/view/745448",
+    "commonName": "Plectrocnemia variegata"
+  },
+  {
+    "genus": "Polycentropus",
+    "species": "denningi",
+    "family": "Polycentropodidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 745449,
+    "URL": "https://bugguide.net/node/view/745449",
+    "commonName": "Polycentropus denningi"
+  },
+  {
+    "genus": "Rhyacophila",
+    "species": "angelita",
+    "family": "Rhyacophilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 745450,
+    "URL": "https://bugguide.net/node/view/745450",
+    "commonName": "Rhyacophila angelita"
+  },
+  {
+    "genus": "Rhyacophila",
+    "species": "grandis",
+    "family": "Rhyacophilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 745451,
+    "URL": "https://bugguide.net/node/view/745451",
+    "commonName": "Rhyacophila grandis"
+  },
+  {
+    "genus": "Triaenodes",
+    "species": "baris",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 745453,
+    "URL": "https://bugguide.net/node/view/745453",
+    "commonName": "Triaenodes baris"
+  },
+  {
+    "genus": "Micrasema",
+    "species": "bactro",
+    "family": "Brachycentridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 745455,
+    "URL": "https://bugguide.net/node/view/745455",
+    "commonName": "Micrasema bactro"
+  },
+  {
+    "genus": "Limnephilus",
+    "species": "fagus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 745456,
+    "URL": "https://bugguide.net/node/view/745456",
+    "commonName": "Limnephilus fagus"
+  },
+  {
+    "genus": "Limnephilus",
+    "species": "externus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 745457,
+    "URL": "https://bugguide.net/node/view/745457",
+    "commonName": "Limnephilus externus"
+  },
+  {
+    "genus": "Limnephilus",
+    "species": "concolor",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 745458,
+    "URL": "https://bugguide.net/node/view/745458",
+    "commonName": "Limnephilus concolor"
+  },
+  {
+    "genus": "Limnephilus",
+    "species": "ademus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 745461,
+    "URL": "https://bugguide.net/node/view/745461",
+    "commonName": "Limnephilus ademus"
+  },
+  {
+    "genus": "Lepidostoma",
+    "species": "jewetti",
+    "family": "Lepidostomatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 745462,
+    "URL": "https://bugguide.net/node/view/745462",
+    "commonName": "Lepidostoma jewetti"
+  },
+  {
+    "genus": "Lepidostoma",
+    "species": "cinereum",
+    "family": "Lepidostomatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 745463,
+    "URL": "https://bugguide.net/node/view/745463",
+    "commonName": "Lepidostoma cinereum"
+  },
+  {
+    "genus": "Lepidostoma",
+    "species": "cascadense",
+    "family": "Lepidostomatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 745464,
+    "URL": "https://bugguide.net/node/view/745464",
+    "commonName": "Lepidostoma cascadense"
+  },
+  {
+    "genus": "Lenarchus",
+    "species": "vastus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 745466,
+    "URL": "https://bugguide.net/node/view/745466",
+    "commonName": "Lenarchus vastus"
+  },
+  {
+    "genus": "Glyphopsyche",
+    "species": "irrorata",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 745467,
+    "URL": "https://bugguide.net/node/view/745467",
+    "commonName": "Glyphopsyche irrorata"
+  },
+  {
+    "genus": "Dolophilodes",
+    "species": "dorca",
+    "family": "Philopotamidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 745468,
+    "URL": "https://bugguide.net/node/view/745468",
+    "commonName": "Dolophilodes dorca"
+  },
+  {
+    "genus": "Clistoronia",
+    "species": "magnifica",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 745471,
+    "URL": "https://bugguide.net/node/view/745471",
+    "commonName": "Clistoronia magnifica"
+  },
+  {
+    "genus": "Agrypnia",
+    "species": "macdunnoughi",
+    "family": "Phryganeidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 745472,
+    "URL": "https://bugguide.net/node/view/745472",
+    "commonName": "Agrypnia macdunnoughi"
+  },
+  {
+    "genus": "Micrasema",
+    "species": "charonis",
+    "family": "Brachycentridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 763514,
+    "URL": "https://bugguide.net/node/view/763514",
+    "commonName": "Micrasema charonis"
+  },
+  {
+    "genus": "Ceraclea",
+    "species": "maculata",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 767518,
+    "URL": "https://bugguide.net/node/view/767518",
+    "commonName": "Ceraclea maculata"
+  },
+  {
+    "genus": "Limnephilus",
+    "species": "nogus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 793687,
+    "URL": "https://bugguide.net/node/view/793687",
+    "commonName": "Limnephilus nogus"
+  },
+  {
+    "genus": "Phylloicus",
+    "species": "aeneus",
+    "family": "Calamoceratidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 842845,
+    "URL": "https://bugguide.net/node/view/842845",
+    "commonName": "Phylloicus aeneus"
+  },
+  {
+    "genus": "Nectopsyche",
+    "species": "pavida",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 856067,
+    "URL": "https://bugguide.net/node/view/856067",
+    "commonName": "Nectopsyche pavida"
+  },
+  {
+    "genus": "Goera",
+    "species": "calcarata",
+    "family": "Goeridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 862116,
+    "URL": "https://bugguide.net/node/view/862116",
+    "commonName": "Goera calcarata"
+  },
+  {
+    "genus": "Heteroplectron",
+    "species": "californicum",
+    "family": "Calamoceratidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 876925,
+    "URL": "https://bugguide.net/node/view/876925",
+    "commonName": "Heteroplectron californicum"
+  },
+  {
+    "genus": "Nerophilus",
+    "species": "californicus",
+    "family": "Odontoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 876927,
+    "URL": "https://bugguide.net/node/view/876927",
+    "commonName": "Nerophilus californicus"
+  },
+  {
+    "genus": "Hydropsyche",
+    "species": "californica",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 896463,
+    "URL": "https://bugguide.net/node/view/896463",
+    "commonName": "Hydropsyche californica"
+  },
+  {
+    "genus": "Marilia",
+    "species": "flexuosa",
+    "family": "Odontoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 898813,
+    "URL": "https://bugguide.net/node/view/898813",
+    "commonName": "Marilia flexuosa"
+  },
+  {
+    "genus": "Amiocentrus",
+    "species": "aspilus",
+    "family": "Brachycentridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 899270,
+    "URL": "https://bugguide.net/node/view/899270",
+    "commonName": "Amiocentrus aspilus"
+  },
+  {
+    "genus": "Limnephilus",
+    "species": "occidentalis",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 926457,
+    "URL": "https://bugguide.net/node/view/926457",
+    "commonName": "Limnephilus occidentalis"
+  },
+  {
+    "genus": "Ochrotrichia",
+    "species": "tenuata",
+    "family": "Hydroptilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 941389,
+    "URL": "https://bugguide.net/node/view/941389",
+    "commonName": "Ochrotrichia tenuata"
+  },
+  {
+    "genus": "Neophylax",
+    "species": "kolodskii",
+    "family": "Thremmatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 942529,
+    "URL": "https://bugguide.net/node/view/942529",
+    "commonName": "Kolodski's Caddisfly"
+  },
+  {
+    "genus": "Hydropsyche",
+    "species": "oslari",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 997157,
+    "URL": "https://bugguide.net/node/view/997157",
+    "commonName": "Hydropsyche oslari"
+  },
+  {
+    "genus": "Polycentropus",
+    "species": "variegatus",
+    "family": "Polycentropodidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 997447,
+    "URL": "https://bugguide.net/node/view/997447",
+    "commonName": "Polycentropus variegatus"
+  },
+  {
+    "genus": "Dicosmoecus",
+    "species": "atripes",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1027223,
+    "URL": "https://bugguide.net/node/view/1027223",
+    "commonName": "Dicosmoecus atripes"
+  },
+  {
+    "genus": "Adicrophleps",
+    "species": "hitchcocki",
+    "family": "Brachycentridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1030388,
+    "URL": "https://bugguide.net/node/view/1030388",
+    "commonName": "Adicrophleps hitchcocki"
+  },
+  {
+    "genus": "Hydropsyche",
+    "species": "alternans",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1034406,
+    "URL": "https://bugguide.net/node/view/1034406",
+    "commonName": "Hydropsyche alternans"
+  },
+  {
+    "genus": "Lepidostoma",
+    "species": "hoodi",
+    "family": "Lepidostomatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1058977,
+    "URL": "https://bugguide.net/node/view/1058977",
+    "commonName": "Lepidostoma hoodi"
+  },
+  {
+    "genus": "Nectopsyche",
+    "species": "candida",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1082343,
+    "URL": "https://bugguide.net/node/view/1082343",
+    "commonName": "Nectopsyche candida"
+  },
+  {
+    "genus": "Anagapetus",
+    "species": "bernea",
+    "family": "Glossosomatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1089973,
+    "URL": "https://bugguide.net/node/view/1089973",
+    "commonName": "Anagapetus bernea"
+  },
+  {
+    "genus": "Hydroptila",
+    "species": "icona",
+    "family": "Hydroptilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1098838,
+    "URL": "https://bugguide.net/node/view/1098838",
+    "commonName": "Hydroptila icona"
+  },
+  {
+    "genus": "Smicridea",
+    "species": "signata",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1120197,
+    "URL": "https://bugguide.net/node/view/1120197",
+    "commonName": "Smicridea signata"
+  },
+  {
+    "genus": "Oxyethira",
+    "species": "forcipata",
+    "family": "Hydroptilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1151550,
+    "URL": "https://bugguide.net/node/view/1151550",
+    "commonName": "Oxyethira forcipata"
+  },
+  {
+    "genus": "Hydroptila",
+    "species": "rono",
+    "family": "Hydroptilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1163543,
+    "URL": "https://bugguide.net/node/view/1163543",
+    "commonName": "Hydroptila rono"
+  },
+  {
+    "genus": "Gumaga",
+    "species": "griseola",
+    "family": "Sericostomatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1163546,
+    "URL": "https://bugguide.net/node/view/1163546",
+    "commonName": "Gumaga griseola"
+  },
+  {
+    "genus": "Limnephilus",
+    "species": "spinatus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1163554,
+    "URL": "https://bugguide.net/node/view/1163554",
+    "commonName": "Limnephilus spinatus"
+  },
+  {
+    "genus": "Lenarchus",
+    "species": "rillus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1163647,
+    "URL": "https://bugguide.net/node/view/1163647",
+    "commonName": "Lenarchus rillus"
+  },
+  {
+    "genus": "Limnephilus",
+    "species": "morrisoni",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1164586,
+    "URL": "https://bugguide.net/node/view/1164586",
+    "commonName": "Limnephilus morrisoni"
+  },
+  {
+    "genus": "Pycnopsyche",
+    "species": "indiana",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1165641,
+    "URL": "https://bugguide.net/node/view/1165641",
+    "commonName": "Pycnopsyche indiana"
+  },
+  {
+    "genus": "Pycnopsyche",
+    "species": "luculenta",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1165643,
+    "URL": "https://bugguide.net/node/view/1165643",
+    "commonName": "Pycnopsyche luculenta"
+  },
+  {
+    "genus": "Ptilostomis",
+    "species": "postica",
+    "family": "Phryganeidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1165646,
+    "URL": "https://bugguide.net/node/view/1165646",
+    "commonName": "Ptilostomis postica"
+  },
+  {
+    "genus": "Limnephilus",
+    "species": "sericeus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1204046,
+    "URL": "https://bugguide.net/node/view/1204046",
+    "commonName": "Limnephilus sericeus"
+  },
+  {
+    "genus": "Triaenodes",
+    "species": "flavescens",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1284114,
+    "URL": "https://bugguide.net/node/view/1284114",
+    "commonName": "Triaenodes flavescens"
+  },
+  {
+    "genus": "Oxyethira",
+    "species": "zeronia",
+    "family": "Hydroptilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1292816,
+    "URL": "https://bugguide.net/node/view/1292816",
+    "commonName": "Oxyethira zeronia"
+  },
+  {
+    "genus": "Phanocelia",
+    "species": "canadensis",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1328780,
+    "URL": "https://bugguide.net/node/view/1328780",
+    "commonName": "Phanocelia canadensis"
+  },
+  {
+    "genus": "Chimarra",
+    "species": "texana",
+    "family": "Philopotamidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1346684,
+    "URL": "https://bugguide.net/node/view/1346684",
+    "commonName": "Chimarra texana"
+  },
+  {
+    "genus": "Himalopsyche",
+    "species": "phryganea",
+    "family": "Rhyacophilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1355403,
+    "URL": "https://bugguide.net/node/view/1355403",
+    "commonName": "Himalopsyche phryganea"
+  },
+  {
+    "genus": "Anisocentropus",
+    "species": "pyraloides",
+    "family": "Calamoceratidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1375739,
+    "URL": "https://bugguide.net/node/view/1375739",
+    "commonName": "Anisocentropus pyraloides"
+  },
+  {
+    "genus": "Triaenodes",
+    "species": "reuteri",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1422675,
+    "URL": "https://bugguide.net/node/view/1422675",
+    "commonName": "Triaenodes reuteri"
+  },
+  {
+    "genus": "Oecetis",
+    "species": "osteni",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1437193,
+    "URL": "https://bugguide.net/node/view/1437193",
+    "commonName": "Oecetis osteni"
+  },
+  {
+    "genus": "Ptilostomis",
+    "species": "angustipennis",
+    "family": "Phryganeidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1437208,
+    "URL": "https://bugguide.net/node/view/1437208",
+    "commonName": "Ptilostomis angustipennis"
+  },
+  {
+    "genus": "Banksiola",
+    "species": "concatenata",
+    "family": "Phryganeidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1437211,
+    "URL": "https://bugguide.net/node/view/1437211",
+    "commonName": "Banksiola concatenata"
+  },
+  {
+    "genus": "Plectrocnemia",
+    "species": "remota",
+    "family": "Polycentropodidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1437228,
+    "URL": "https://bugguide.net/node/view/1437228",
+    "commonName": "Plectrocnemia remota"
+  },
+  {
+    "genus": "Dicosmoecus",
+    "species": "gilvipes",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1471187,
+    "URL": "https://bugguide.net/node/view/1471187",
+    "commonName": "Dicosmoecus gilvipes"
+  },
+  {
+    "genus": "Limnephilus",
+    "species": "flavastellus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1471188,
+    "URL": "https://bugguide.net/node/view/1471188",
+    "commonName": "Limnephilus flavastellus"
+  },
+  {
+    "genus": "Psychoglypha",
+    "species": "avigo",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1471190,
+    "URL": "https://bugguide.net/node/view/1471190",
+    "commonName": "Psychoglypha avigo"
+  },
+  {
+    "genus": "Psilotreta",
+    "species": "rufa",
+    "family": "Odontoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1471355,
+    "URL": "https://bugguide.net/node/view/1471355",
+    "commonName": "Psilotreta rufa"
+  },
+  {
+    "genus": "Psychoglypha",
+    "species": "bella",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1509246,
+    "URL": "https://bugguide.net/node/view/1509246",
+    "commonName": "Psychoglypha bella"
+  },
+  {
+    "genus": "Chilostigmodes",
+    "species": "areolatus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1512665,
+    "URL": "https://bugguide.net/node/view/1512665",
+    "commonName": "Chilostigmodes areolatus"
+  },
+  {
+    "genus": "Orthotrichia",
+    "species": "aegerfasciella",
+    "family": "Hydroptilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1520455,
+    "URL": "https://bugguide.net/node/view/1520455",
+    "commonName": "Orthotrichia aegerfasciella"
+  },
+  {
+    "genus": "Neophylax",
+    "species": "rickeri",
+    "family": "Thremmatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1538596,
+    "URL": "https://bugguide.net/node/view/1538596",
+    "commonName": "Neophylax rickeri"
+  },
+  {
+    "genus": "Psychomyia",
+    "species": "flavida",
+    "family": "Psychomyiidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1555270,
+    "URL": "https://bugguide.net/node/view/1555270",
+    "commonName": "Psychomyia flavida"
+  },
+  {
+    "genus": "Brachycentrus",
+    "species": "incanus",
+    "family": "Brachycentridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1555274,
+    "URL": "https://bugguide.net/node/view/1555274",
+    "commonName": "Brachycentrus incanus"
+  },
+  {
+    "genus": "Cheumatopsyche",
+    "species": "speciosa",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1562577,
+    "URL": "https://bugguide.net/node/view/1562577",
+    "commonName": "Cheumatopsyche speciosa"
+  },
+  {
+    "genus": "Lepidostoma",
+    "species": "stigma",
+    "family": "Lepidostomatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1562578,
+    "URL": "https://bugguide.net/node/view/1562578",
+    "commonName": "Lepidostoma stigma"
+  },
+  {
+    "genus": "Hydroptila",
+    "species": "waubesiana",
+    "family": "Hydroptilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1562580,
+    "URL": "https://bugguide.net/node/view/1562580",
+    "commonName": "Hydroptila waubesiana"
+  },
+  {
+    "genus": "Limnephilus",
+    "species": "moestus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1562710,
+    "URL": "https://bugguide.net/node/view/1562710",
+    "commonName": "Limnephilus moestus"
+  },
+  {
+    "genus": "Hydroptila",
+    "species": "arctia",
+    "family": "Hydroptilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1563543,
+    "URL": "https://bugguide.net/node/view/1563543",
+    "commonName": "Hydroptila arctia"
+  },
+  {
+    "genus": "Hydatophylax",
+    "species": "hesperus",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1563836,
+    "URL": "https://bugguide.net/node/view/1563836",
+    "commonName": "Hydatophylax hesperus"
+  },
+  {
+    "genus": "Homophylax",
+    "species": "insulas",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1563973,
+    "URL": "https://bugguide.net/node/view/1563973",
+    "commonName": "Homophylax insulas"
+  },
+  {
+    "genus": "Dicosmoecus",
+    "species": "pallicornis",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1565188,
+    "URL": "https://bugguide.net/node/view/1565188",
+    "commonName": "Dicosmoecus pallicornis"
+  },
+  {
+    "genus": "Lenarchus",
+    "species": "rho",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1583988,
+    "URL": "https://bugguide.net/node/view/1583988",
+    "commonName": "Lenarchus rho"
+  },
+  {
+    "genus": "Limnephilus",
+    "species": "harrimani",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1583992,
+    "URL": "https://bugguide.net/node/view/1583992",
+    "commonName": "Limnephilus harrimani"
+  },
+  {
+    "genus": "Limnephilus",
+    "species": "kalama",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1583994,
+    "URL": "https://bugguide.net/node/view/1583994",
+    "commonName": "Limnephilus kalama"
+  },
+  {
+    "genus": "Nectopsyche",
+    "species": "diarina",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1591159,
+    "URL": "https://bugguide.net/node/view/1591159",
+    "commonName": "Nectopsyche diarina"
+  },
+  {
+    "genus": "Oxyethira",
+    "species": "serrata",
+    "family": "Hydroptilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1597550,
+    "URL": "https://bugguide.net/node/view/1597550",
+    "commonName": "Oxyethira serrata"
+  },
+  {
+    "genus": "Ceraclea",
+    "species": "tarsipunctata",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1597551,
+    "URL": "https://bugguide.net/node/view/1597551",
+    "commonName": "Ceraclea tarsipunctata"
+  },
+  {
+    "genus": "Hydropsyche",
+    "species": "hageni",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1597552,
+    "URL": "https://bugguide.net/node/view/1597552",
+    "commonName": "Hydropsyche hageni"
+  },
+  {
+    "genus": "Phryganea",
+    "species": "cinerea",
+    "family": "Phryganeidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1597558,
+    "URL": "https://bugguide.net/node/view/1597558",
+    "commonName": "Phryganea cinerea"
+  },
+  {
+    "genus": "Polycentropus",
+    "species": "cinereus",
+    "family": "Polycentropodidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1597559,
+    "URL": "https://bugguide.net/node/view/1597559",
+    "commonName": "Polycentropus cinereus"
+  },
+  {
+    "genus": "Hydropsyche",
+    "species": "simulans",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1597560,
+    "URL": "https://bugguide.net/node/view/1597560",
+    "commonName": "Hydropsyche simulans"
+  },
+  {
+    "genus": "Ceraclea",
+    "species": "cancellata",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1597561,
+    "URL": "https://bugguide.net/node/view/1597561",
+    "commonName": "Ceraclea cancellata"
+  },
+  {
+    "genus": "Anabolia",
+    "species": "bimaculata",
+    "family": "Limnephilidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1597562,
+    "URL": "https://bugguide.net/node/view/1597562",
+    "commonName": "Anabolia bimaculata"
+  },
+  {
+    "genus": "Hydropsyche",
+    "species": "incommoda",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1597565,
+    "URL": "https://bugguide.net/node/view/1597565",
+    "commonName": "Hydropsyche incommoda"
+  },
+  {
+    "genus": "Hydropsyche",
+    "species": "scalaris",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1597685,
+    "URL": "https://bugguide.net/node/view/1597685",
+    "commonName": "Hydropsyche scalaris"
+  },
+  {
+    "genus": "Ceraclea",
+    "species": "enodis",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1597686,
+    "URL": "https://bugguide.net/node/view/1597686",
+    "commonName": "Ceraclea enodis"
+  },
+  {
+    "genus": "Ptilostomis",
+    "species": "semifasciata",
+    "family": "Phryganeidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1597687,
+    "URL": "https://bugguide.net/node/view/1597687",
+    "commonName": "Ptilostomis semifasciata"
+  },
+  {
+    "genus": "Ceraclea",
+    "species": "punctata",
+    "family": "Leptoceridae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1597688,
+    "URL": "https://bugguide.net/node/view/1597688",
+    "commonName": "Ceraclea punctata"
+  },
+  {
+    "genus": "Cheumatopsyche",
+    "species": "minuscula",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1597691,
+    "URL": "https://bugguide.net/node/view/1597691",
+    "commonName": "Cheumatopsyche minuscula"
+  },
+  {
+    "genus": "Hydropsyche",
+    "species": "bifida",
+    "family": "Hydropsychidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1597696,
+    "URL": "https://bugguide.net/node/view/1597696",
+    "commonName": "Hydropsyche bifida"
+  },
+  {
+    "genus": "Lepidostoma",
+    "species": "griseum",
+    "family": "Lepidostomatidae",
+    "Order": "Trichoptera",
+    "BugGuideID": 1601297,
+    "URL": "https://bugguide.net/node/view/1601297",
+    "commonName": "Lepidostoma griseum"
+  }
+]

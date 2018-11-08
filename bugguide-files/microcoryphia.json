@@ -1,0 +1,65 @@
+[
+  {
+    "genus": "Trigoniophthalmus",
+    "species": "alternatus",
+    "family": "Machilidae",
+    "Order": "Microcoryphia",
+    "BugGuideID": 248042,
+    "URL": "https://bugguide.net/node/view/248042",
+    "Common Name": "Trigoniophthalmus alternatus"
+  },
+  {
+    "genus": "Petrobius",
+    "species": "brevistylus",
+    "family": "Machilidae",
+    "Order": "Microcoryphia",
+    "BugGuideID": 320276,
+    "URL": "https://bugguide.net/node/view/320276",
+    "Common Name": "Petrobius brevistylus"
+  },
+  {
+    "genus": "Pedetontus",
+    "species": "saltator",
+    "family": "Machilidae",
+    "Order": "Microcoryphia",
+    "BugGuideID": 365621,
+    "URL": "https://bugguide.net/node/view/365621",
+    "Common Name": "Pedetontus (s.str.) saltator"
+  },
+  {
+    "genus": "Machilinus",
+    "species": "aurantiacus",
+    "family": "Meinertellidae",
+    "Order": "Microcoryphia",
+    "BugGuideID": 477701,
+    "URL": "https://bugguide.net/node/view/477701",
+    "Common Name": "Machilinus aurantiacus"
+  },
+  {
+    "genus": "Petridiobius",
+    "species": "arcticus",
+    "family": "Machilidae",
+    "Order": "Microcoryphia",
+    "BugGuideID": 477704,
+    "URL": "https://bugguide.net/node/view/477704",
+    "Common Name": "Petridiobius arcticus"
+  },
+  {
+    "genus": "Machiloides",
+    "species": "banksi",
+    "family": "Meinertellidae",
+    "Order": "Microcoryphia",
+    "BugGuideID": 477714,
+    "URL": "https://bugguide.net/node/view/477714",
+    "Common Name": "Machiloides banksi"
+  },
+  {
+    "genus": "Pedetontus",
+    "species": "submutans",
+    "family": "Machilidae",
+    "Order": "Microcoryphia",
+    "BugGuideID": 724057,
+    "URL": "https://bugguide.net/node/view/724057",
+    "Common Name": "Pedetontus (Verhoeffilis) submutans"
+  }
+]

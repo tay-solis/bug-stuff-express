@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 4000;
+const db = require('./models');
 
 //Parses json to url
 const bodyParser = require('body-parser');
@@ -21,6 +22,26 @@ app.get('/', (req, res) => {
         root: __dirname
     });
 });
+
+//Read: Get all species in database
+// app.get('/api/species', (req, res) => {
+//     db.Species.find({})
+//       .populate('family')
+//       .exec((err, species) => {
+//         if (err) throw err;
+//         res.json(species)
+//       });
+//   });
+
+  //Read: Get all species in database
+app.get('/api/orders', (req, res) => {
+    db.Order.find({})
+      .populate('family')
+      .exec((err, order) => {
+        if (err) throw err;
+        res.json(order)
+      });
+  });
 
 app.listen(port, () => {
     console.log(`Bug app is listening on port:${port}`);

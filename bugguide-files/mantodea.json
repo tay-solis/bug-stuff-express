@@ -1,0 +1,254 @@
+[
+  {
+    "genus": "Mantoida",
+    "species": "maya",
+    "family": "Mantoididae",
+    "order": "Mantodea",
+    "BugGuideID": 4819,
+    "URL": "https://bugguide.net/node/view/4819",
+    "commonName": "Little Yucatan Mantid"
+  },
+  {
+    "genus": "Stagmomantis",
+    "species": "carolina",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "BugGuideID": 4821,
+    "URL": "https://bugguide.net/node/view/4821",
+    "commonName": "Carolina Mantis"
+  },
+  {
+    "genus": "Thesprotia",
+    "species": "graminis",
+    "family": "Thespidae",
+    "order": "Mantodea",
+    "BugGuideID": 4823,
+    "URL": "https://bugguide.net/node/view/4823",
+    "commonName": "Grass-like Mantid"
+  },
+  {
+    "genus": "Stagmomantis",
+    "species": "californica",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "BugGuideID": 7985,
+    "URL": "https://bugguide.net/node/view/7985",
+    "commonName": "California Mantis"
+  },
+  {
+    "genus": "Gonatista",
+    "species": "grisea",
+    "family": "Liturgusidae",
+    "order": "Mantodea",
+    "BugGuideID": 11677,
+    "URL": "https://bugguide.net/node/view/11677",
+    "commonName": "Grizzled Mantid"
+  },
+  {
+    "genus": "Tenodera",
+    "species": "sinensis",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "BugGuideID": 12409,
+    "URL": "https://bugguide.net/node/view/12409",
+    "commonName": "Chinese Mantis"
+  },
+  {
+    "genus": "Pseudovates",
+    "species": "arizonae",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "BugGuideID": 22607,
+    "URL": "https://bugguide.net/node/view/22607",
+    "commonName": "Arizona Unicorn Mantis"
+  },
+  {
+    "genus": "Mantis",
+    "species": "religiosa",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "BugGuideID": 22947,
+    "URL": "https://bugguide.net/node/view/22947",
+    "commonName": "European Mantis"
+  },
+  {
+    "genus": "Brunneria",
+    "species": "borealis",
+    "family": "Coptopterygidae",
+    "order": "Mantodea",
+    "BugGuideID": 34147,
+    "URL": "https://bugguide.net/node/view/34147",
+    "commonName": "Brunner's Mantis"
+  },
+  {
+    "genus": "Oligonicella",
+    "species": "scudderi",
+    "family": "Thespidae",
+    "order": "Mantodea",
+    "BugGuideID": 35195,
+    "URL": "https://bugguide.net/node/view/35195",
+    "commonName": "Oligonicella scudderi"
+  },
+  {
+    "genus": "Litaneutria",
+    "species": "minor",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "BugGuideID": 35588,
+    "URL": "https://bugguide.net/node/view/35588",
+    "commonName": "Litaneutria minor"
+  },
+  {
+    "genus": "Phyllovates",
+    "species": "chlorophaea",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "BugGuideID": 71463,
+    "URL": "https://bugguide.net/node/view/71463",
+    "commonName": "Texas Unicorn Mantis"
+  },
+  {
+    "genus": "Iris",
+    "species": "oratoria",
+    "family": "Tarachodidae",
+    "order": "Mantodea",
+    "BugGuideID": 71486,
+    "URL": "https://bugguide.net/node/view/71486",
+    "commonName": "Mediterranean Mantis"
+  },
+  {
+    "genus": "Litaneutria",
+    "species": "obscura",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "BugGuideID": 80549,
+    "URL": "https://bugguide.net/node/view/80549",
+    "commonName": "Litaneutria obscura"
+  },
+  {
+    "genus": "Stagmomantis",
+    "species": "limbata",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "BugGuideID": 149885,
+    "URL": "https://bugguide.net/node/view/149885",
+    "commonName": "Bordered Mantis"
+  },
+  {
+    "genus": "Bactromantis",
+    "species": "mexicana",
+    "family": "Thespidae",
+    "order": "Mantodea",
+    "BugGuideID": 195329,
+    "URL": "https://bugguide.net/node/view/195329",
+    "commonName": "Bactromantis mexicana"
+  },
+  {
+    "genus": "Tenodera",
+    "species": "angustipennis",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "BugGuideID": 214178,
+    "URL": "https://bugguide.net/node/view/214178",
+    "commonName": "Narrow-winged Mantis"
+  },
+  {
+    "genus": "Yersiniops",
+    "species": "solitarium",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "BugGuideID": 234143,
+    "URL": "https://bugguide.net/node/view/234143",
+    "commonName": "Yersiniops solitarium"
+  },
+  {
+    "genus": "Yersiniops",
+    "species": "sophronicum",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "BugGuideID": 239768,
+    "URL": "https://bugguide.net/node/view/239768",
+    "commonName": "Yersin's ground mantis"
+  },
+  {
+    "genus": "Bactromantis",
+    "species": "virga",
+    "family": "Thespidae",
+    "order": "Mantodea",
+    "BugGuideID": 443468,
+    "URL": "https://bugguide.net/node/view/443468",
+    "commonName": "Bactromantis virga"
+  },
+  {
+    "genus": "Stagmomantis",
+    "species": "floridensis",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "BugGuideID": 454720,
+    "URL": "https://bugguide.net/node/view/454720",
+    "commonName": "Larger Florida Mantis"
+  },
+  {
+    "genus": "Stagmomantis",
+    "species": "gracilipes",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "BugGuideID": 1261629,
+    "URL": "https://bugguide.net/node/view/1261629",
+    "commonName": "Arizona Tan Mantis"
+  },
+  {
+    "genus": "Liturgusa",
+    "species": "maya",
+    "family": "Liturgusidae",
+    "order": "Mantodea",
+    "BugGuideID": 1467713,
+    "URL": "https://bugguide.net/node/view/1467713",
+    "commonName": "Liturgusa maya"
+  },
+  {
+    "genus": "Litaneutria",
+    "species": "ocularis",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "BugGuideID": 1510875,
+    "URL": "https://bugguide.net/node/view/1510875",
+    "commonName": "Litaneutria ocularis"
+  },
+  {
+    "genus": "Litaneutria",
+    "species": "pacifica",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "BugGuideID": 1511112,
+    "URL": "https://bugguide.net/node/view/1511112",
+    "commonName": "Litaneutria pacifica"
+  },
+  {
+    "genus": "Litaneutria",
+    "species": "skinneri",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "BugGuideID": 1574182,
+    "URL": "https://bugguide.net/node/view/1574182",
+    "commonName": "Litaneutria skinneri"
+  },
+  {
+    "genus": "Litaneutria",
+    "species": "elongata",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "BugGuideID": 1574183,
+    "URL": "https://bugguide.net/node/view/1574183",
+    "commonName": "Litaneutria elongata"
+  },
+  {
+    "genus": "Litaneutria",
+    "species": "emarginata",
+    "family": "Mantidae",
+    "order": "Mantodea",
+    "BugGuideID": 1574185,
+    "URL": "https://bugguide.net/node/view/1574185",
+    "commonName": "Litaneutria emarginata"
+  }
+]

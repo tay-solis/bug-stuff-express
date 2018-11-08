@@ -1,0 +1,137 @@
+[
+  {
+    "genus": "Forficula",
+    "species": "auricularia",
+    "family": "Forficulidae",
+    "order": "Dermaptera",
+    "BugGuideID": 23281,
+    "URL": "https://bugguide.net/node/view/23281",
+    "commonName": "European Earwig"
+  },
+  {
+    "genus": "Euborellia",
+    "species": "annulipes",
+    "family": "Anisolabididae",
+    "order": "Dermaptera",
+    "BugGuideID": 38922,
+    "URL": "https://bugguide.net/node/view/38922",
+    "commonName": "Ring-legged Earwig"
+  },
+  {
+    "genus": "Labidura",
+    "species": "riparia",
+    "family": "Labiduridae",
+    "order": "Dermaptera",
+    "BugGuideID": 90510,
+    "URL": "https://bugguide.net/node/view/90510",
+    "commonName": "Shore Earwig"
+  },
+  {
+    "genus": "Vostox",
+    "species": "brunneipennis",
+    "family": "Spongiphoridae",
+    "order": "Dermaptera",
+    "BugGuideID": 128072,
+    "URL": "https://bugguide.net/node/view/128072",
+    "commonName": "Vostox brunneipennis"
+  },
+  {
+    "genus": "Labia",
+    "species": "minor",
+    "family": "Spongiphoridae",
+    "order": "Dermaptera",
+    "BugGuideID": 128080,
+    "URL": "https://bugguide.net/node/view/128080",
+    "commonName": "Lesser Earwig"
+  },
+  {
+    "genus": "Anisolabis",
+    "species": "maritima",
+    "family": "Anisolabididae",
+    "order": "Dermaptera",
+    "BugGuideID": 142736,
+    "URL": "https://bugguide.net/node/view/142736",
+    "commonName": "Maritime Earwig"
+  },
+  {
+    "genus": "Chelisoches",
+    "species": "morio",
+    "family": "Chelisochidae",
+    "order": "Dermaptera",
+    "BugGuideID": 273975,
+    "URL": "https://bugguide.net/node/view/273975",
+    "commonName": "Black Earwig"
+  },
+  {
+    "genus": "Vostox",
+    "species": "apicedentatus",
+    "family": "Spongiphoridae",
+    "order": "Dermaptera",
+    "BugGuideID": 333128,
+    "URL": "https://bugguide.net/node/view/333128",
+    "commonName": "Toothed Earwig"
+  },
+  {
+    "genus": "Euborellia",
+    "species": "cincticollis",
+    "family": "Anisolabididae",
+    "order": "Dermaptera",
+    "BugGuideID": 355188,
+    "URL": "https://bugguide.net/node/view/355188",
+    "commonName": "African Earwig"
+  },
+  {
+    "genus": "Doru",
+    "species": "taeniatum",
+    "family": "Forficulidae",
+    "order": "Dermaptera",
+    "BugGuideID": 360570,
+    "URL": "https://bugguide.net/node/view/360570",
+    "commonName": "Lined Earwig"
+  },
+  {
+    "genus": "Doru",
+    "species": "aculeatum",
+    "family": "Forficulidae",
+    "order": "Dermaptera",
+    "BugGuideID": 360575,
+    "URL": "https://bugguide.net/node/view/360575",
+    "commonName": "Spine-tailed Earwig"
+  },
+  {
+    "genus": "Euborellia",
+    "species": "annulata",
+    "family": "Anisolabididae",
+    "order": "Dermaptera",
+    "BugGuideID": 857162,
+    "URL": "https://bugguide.net/node/view/857162",
+    "commonName": "Euborellia annulata"
+  },
+  {
+    "genus": "Marava",
+    "species": "pulchella",
+    "family": "Spongiphoridae",
+    "order": "Dermaptera",
+    "BugGuideID": 903645,
+    "URL": "https://bugguide.net/node/view/903645",
+    "commonName": "Marava pulchella"
+  },
+  {
+    "genus": "Marava",
+    "species": "arachidis",
+    "family": "Spongiphoridae",
+    "order": "Dermaptera",
+    "BugGuideID": 1123491,
+    "URL": "https://bugguide.net/node/view/1123491",
+    "commonName": "Marava arachidis"
+  },
+  {
+    "genus": "Euborellia",
+    "species": "arcanum",
+    "family": "Anisolabididae",
+    "order": "Dermaptera",
+    "BugGuideID": 1325622,
+    "URL": "https://bugguide.net/node/view/1325622",
+    "commonName": "Euborellia arcanum"
+  }
+]
